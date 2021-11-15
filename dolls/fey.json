@@ -1,0 +1,83 @@
+{
+  "name": "Fey",
+  "rarity": "R",
+  "element": "Saltstone",
+  "vocation": "Destroyer",
+  "ascension4": false,
+  "nickname": "Penetrating Spear",
+  "va": {
+    "jpn": "Wakana Kowaka"
+  },
+  "artist": "Tian",
+  "profile": {
+    "Gender": "Female",
+    "Age": "18",
+    "Birthday": "Oct. 26",
+    "Height": "168cm",
+    "Weight": "？",
+    "Hobby": "Practicing martial arts/Divination"
+  },
+  "skill1": {
+    "name": "Sweep",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 300% of ATK to a single target."
+      },
+      {
+        "description": "Deals Physical DMG equal to 350% of ATK to a single target."
+      },
+      {
+        "description": "Deals Physical DMG equal to 400% of ATK to a single target."
+      },
+      {
+        "description": "Deals Physical DMG equal to 450% of ATK to a single target."
+      },
+      {
+        "description": "Deals Physical DMG equal to 500% of ATK to a single target."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Magic Flux",
+    "chaosCost": 5,
+    "orderCost": 0,
+    "range": "Self",
+    "type": "Enhance",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Activates the spell on the spear. Normal Attacks turn into consecutive thrusts, dealing extra damage equal to 54% of ATK."
+      },
+      {
+        "description": "Activates the spell on the spear. Normal Attacks turn into consecutive thrusts, dealing extra damage equal to 63% of ATK."
+      },
+      {
+        "description": "Activates the spell on the spear. Normal Attacks turn into consecutive thrusts, dealing extra damage equal to 72% of ATK."
+      },
+      {
+        "description": "Activates the spell on the spear. Normal Attacks turn into consecutive thrusts, dealing extra damage equal to 81% of ATK."
+      },
+      {
+        "description": "Activates the spell on the spear. Normal Attacks turn into consecutive thrusts, dealing extra damage equal to 90% of ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Penetrate",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Deals 5% more damage."
+      },
+      {
+        "description": "Deals 10% more damage."
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Lilia",
+  "rarity": "EX",
+  "element": "Mercury",
+  "vocation": "Mage",
+  "artistAscension4": "緜/wata",
+  "ascension4": true,
+  "nickname": "Princess of Aurora",
+  "va": {
+    "jpn": "Sumire Uesaka"
+  },
+  "artist": "あずーる",
+  "profile": {
+    "Gender": "Female",
+    "Age": "18",
+    "Birthday": "Dec. 24",
+    "Height": "161cm",
+    "Weight": "？",
+    "Hobby": "Traveling/ Stargazing/ Exotic cuisine/ Poems"
+  },
+  "skill1": {
+    "name": "Aurora Surge",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Summons an aurora that attacks all enemies 3 times, each time dealing Magic DMG equal to 60% of ATK. Immune to control effects while skill is active."
+      },
+      {
+        "description": "Summons an aurora that attacks all enemies 3 times, each time dealing Magic DMG equal to 70% of ATK. Immune to control effects while skill is active."
+      },
+      {
+        "description": "Summons an aurora that attacks all enemies 3 times, each time dealing Magic DMG equal to 80% of ATK. Immune to control effects while skill is active."
+      },
+      {
+        "description": "Summons an aurora that attacks all enemies 3 times, each time dealing Magic DMG equal to 90% of ATK. Immune to control effects while skill is active."
+      },
+      {
+        "description": "Summons an aurora that attacks all enemies 3 times, each time dealing Magic DMG equal to 150% of ATK. Immune to control effects while skill is active."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Brilliant Melody",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Unleashes the Aurora\u0027s power, placing Aurora\u0027s Blessing on all allies for 5 seconds. Aurora\u0027s Blessing: Doll skills deal extra Magic DMG equal to 90% of ATK to all enemies."
+      },
+      {
+        "description": "Unleashes the Aurora\u0027s power, placing Aurora\u0027s Blessing on all allies for 5 seconds. Aurora\u0027s Blessing: Doll skills deal extra Magic DMG equal to 105% of ATK to all enemies."
+      },
+      {
+        "description": "Unleashes the Aurora\u0027s power, placing Aurora\u0027s Blessing on all allies for 5 seconds. Aurora\u0027s Blessing: Doll skills deal extra Magic DMG equal to 120% of ATK to all enemies."
+      },
+      {
+        "description": "Unleashes the Aurora\u0027s power, placing Aurora\u0027s Blessing on all allies for 5 seconds. Aurora\u0027s Blessing: Doll skills deal extra Magic DMG equal to 135% of ATK to all enemies."
+      },
+      {
+        "description": "Unleashes the Aurora\u0027s power, placing Aurora\u0027s Blessing on all allies for 5 seconds. Aurora\u0027s Blessing: Doll skills deal extra Magic DMG equal to 150% of ATK to all enemies."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Aurora\u0027s Blessing",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Generates 1 Order Energy every 6 seconds."
+      },
+      {
+        "description": "Generates 1 Order Energy every 3 seconds."
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Viola",
+  "rarity": "SSR",
+  "element": "Mercury",
+  "vocation": "Mage",
+  "ascension4": false,
+  "nickname": "Clockwork-Doll",
+  "va": {
+    "jpn": "Miho Wataya"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "?",
+    "Height": "145cm",
+    "Weight": "？",
+    "Hobby": "Learning/ Imitating human behavior"
+  },
+  "skill1": {
+    "name": "Traumatic Light",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "After a short charge, emits a beam of light that attacks all enemies 3 times within 1 second, each time dealing damage equal to 60% of Viola\u0027s ATK."
+      },
+      {
+        "description": "After a short charge, emits a beam of light that attacks all enemies 3 times within 1 second, each time dealing damage equal to 70% of Viola\u0027s ATK."
+      },
+      {
+        "description": "After a short charge, emits a beam of light that attacks all enemies 3 times within 1 second, each time dealing damage equal to 80% of Viola\u0027s ATK."
+      },
+      {
+        "description": "After a short charge, emits a beam of light that attacks all enemies 3 times within 1 second, each time dealing damage equal to 90% of Viola\u0027s ATK."
+      },
+      {
+        "description": "After a short charge, emits a beam of light that attacks all enemies 3 times within 1 second, each time dealing damage equal to 100% of Viola\u0027s ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Twisted Souls",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Support",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "For 6 seconds, all damages taken by the team are split equally among the Dolls. Also reduces all damage taken by 18%."
+      },
+      {
+        "description": "For 6 seconds, all damages taken by the team are split equally among the Dolls. Also reduces all damage taken by 21%."
+      },
+      {
+        "description": "For 6 seconds, all damages taken by the team are split equally among the Dolls. Also reduces all damage taken by 24%."
+      },
+      {
+        "description": "For 6 seconds, all damages taken by the team are split equally among the Dolls. Also reduces all damage taken by 27%."
+      },
+      {
+        "description": "For 6 seconds, all damages taken by the team are split equally among the Dolls. Also reduces all damage taken by 30%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Rebuild",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "After taking lethal damage, Viola reveals her mechanical core, which takes 100% more damage. If the core is not destroyed within 5s, the Doll will be auto repaired. Can only trigger once per combat."
+      },
+      {
+        "description": "After taking lethal damage, Viola reveals her mechanical core, which takes 50% more damage. If the core is not destroyed within 5s, the Doll will be auto repaired. Can only trigger once per combat."
+      }
+    ]
+  }
+}

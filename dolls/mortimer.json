@@ -1,0 +1,83 @@
+{
+  "name": "Mortimer",
+  "rarity": "SR",
+  "element": "Saltstone",
+  "vocation": "Healer",
+  "ascension4": false,
+  "nickname": "Heart of Rose",
+  "va": {
+    "jpn": "Saran Tajima"
+  },
+  "artist": "不可燃物",
+  "profile": {
+    "Gender": "?",
+    "Age": "17",
+    "Birthday": "May. 12",
+    "Height": "157cm",
+    "Weight": "？",
+    "Hobby": "Flower cultivation/Mischief/Sprucing up."
+  },
+  "skill1": {
+    "name": "Whisper of Flower",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "Single Ally",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Use rose petals to heal the Doll with the lowest Health for 180% of Mortimer\u0027s ATK."
+      },
+      {
+        "description": "Use rose petals to heal the Doll with the lowest Health for 210% of Mortimer\u0027s ATK."
+      },
+      {
+        "description": "Use rose petals to heal the Doll with the lowest Health for 240% of Mortimer\u0027s ATK."
+      },
+      {
+        "description": "Use rose petals to heal the Doll with the lowest Health for 270% of Mortimer\u0027s ATK."
+      },
+      {
+        "description": "Use rose petals to heal the Doll with the lowest Health for 300% of Mortimer\u0027s ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "A Girl\u0027s Prayer",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "Single Ally",
+    "type": "Enhance",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Reduces the damage taken by the Doll in the front row by 18% and increases that Doll\u0027s ATK by 30% of Mortimer\u0027s ATK. Lasts for 10s."
+      },
+      {
+        "description": "Reduces the damage taken by the Doll in the front row by 21% and increases that Doll\u0027s ATK by 35% of Mortimer\u0027s ATK. Lasts for 10s."
+      },
+      {
+        "description": "Reduces the damage taken by the Doll in the front row by 24% and increases that Doll\u0027s ATK by 40% of Mortimer\u0027s ATK. Lasts for 10s."
+      },
+      {
+        "description": "Reduces the damage taken by the Doll in the front row by 27% and increases that Doll\u0027s ATK by 45% of Mortimer\u0027s ATK. Lasts for 10s."
+      },
+      {
+        "description": "Reduces the damage taken by the Doll in the front row by 30% and increases that Doll\u0027s ATK by 50% of Mortimer\u0027s ATK. Lasts for 10s."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Delicate Hands",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Auto uses Whisper of Flower once on allies that are below 30% Health. Can only trigger once every 15 seconds."
+      },
+      {
+        "description": "Auto uses Whisper of Flower once on allies that are below 30% Health. Can only trigger once every 8 seconds."
+      }
+    ]
+  }
+}

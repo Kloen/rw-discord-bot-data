@@ -1,0 +1,83 @@
+{
+  "name": "Miku",
+  "rarity": "SR",
+  "element": "Saltstone",
+  "vocation": "Destroyer",
+  "ascension4": false,
+  "nickname": "Spell-breaking Spear",
+  "va": {
+    "jpn": "Manami Numakura"
+  },
+  "artist": "朝日川日和",
+  "profile": {
+    "Gender": "Female",
+    "Age": "14",
+    "Birthday": "Jun. 2",
+    "Height": "156cm",
+    "Weight": "？",
+    "Hobby": "Cooking/ Cute dresses/ Everything about her sister"
+  },
+  "skill1": {
+    "name": "Evilsend",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 300% of ATK to a single target."
+      },
+      {
+        "description": "Deals Physical DMG equal to 350% of ATK to a single target."
+      },
+      {
+        "description": "Deals Physical DMG equal to 400% of ATK to a single target."
+      },
+      {
+        "description": "Deals Physical DMG equal to 450% of ATK to a single target."
+      },
+      {
+        "description": "Deals Physical DMG equal to 500% of ATK to a single target."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Psychics",
+    "chaosCost": 5,
+    "orderCost": 0,
+    "range": "Self",
+    "type": "Transform",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Strengthens Normal Attacks to deal damage equal to 195% of ATK and increases Evilsend\u0027s damage by 24%."
+      },
+      {
+        "description": "Strengthens Normal Attacks to deal damage equal to 205% of ATK and increases Evilsend\u0027s damage by 28%."
+      },
+      {
+        "description": "Strengthens Normal Attacks to deal damage equal to 215% of ATK and increases Evilsend\u0027s damage by 32%."
+      },
+      {
+        "description": "Strengthens Normal Attacks to deal damage equal to 225% of ATK and increases Evilsend\u0027s damage by 36%."
+      },
+      {
+        "description": "Strengthens Normal Attacks to deal damage equal to 235% of ATK and increases Evilsend\u0027s damage by 40%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Bravery in Battle",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases damage dealt by 2.5% for 10s after casting Evilsend. Can stack up to 12.5%."
+      },
+      {
+        "description": "Increases damage dealt by 5% for 10s after casting Evilsend. Can stack up to 25%."
+      }
+    ]
+  }
+}

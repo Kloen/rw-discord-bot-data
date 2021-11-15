@@ -1,0 +1,84 @@
+{
+  "name": "Norn",
+  "rarity": "SSR",
+  "element": "Brimstone",
+  "vocation": "Healer",
+  "artistAscension4": "Angye",
+  "ascension4": true,
+  "nickname": "Immortal Ovate",
+  "va": {
+    "jpn": "Eri Yukimura"
+  },
+  "artist": "Angye",
+  "profile": {
+    "Gender": "Female",
+    "Age": "600？",
+    "Birthday": "?",
+    "Height": "151cm",
+    "Weight": "？",
+    "Hobby": "Playing merrily"
+  },
+  "skill1": {
+    "name": "Soul Cleansing",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Within 5 seconds, attacks all enemies and heals all allies 7 times respectively, each dealing Magic DMG equal to 30% of Norn\u0027s ATK and healing allies for 35% of Norn\u0027s ATK."
+      },
+      {
+        "description": "Within 5 seconds, attacks all enemies and heals all allies 7 times respectively, each dealing Magic DMG equal to 35% of Norn\u0027s ATK and healing allies for 40% of Norn\u0027s ATK."
+      },
+      {
+        "description": "Within 5 seconds, attacks all enemies and heals all allies 7 times respectively, each dealing Magic DMG equal to 40% of Norn\u0027s ATK and healing allies for 45% of Norn\u0027s ATK."
+      },
+      {
+        "description": "Within 5 seconds, attacks all enemies and heals all allies 7 times respectively, each dealing Magic DMG equal to 45% of Norn\u0027s ATK and healing allies for 50% of Norn\u0027s ATK."
+      },
+      {
+        "description": "Within 5 seconds, attacks all enemies and heals all allies 7 times respectively, each dealing Magic DMG equal to 50% of Norn\u0027s ATK and healing allies for 55% of Norn\u0027s ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Bardo",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Enhance",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Reduces damage taken by all allies by 18% for 10s. When the allies deal Physical DMG, they inflict extra damage equal to 24% of Norn\u0027s ATK."
+      },
+      {
+        "description": "Reduces damage taken by all allies by 21% for 10s. When the allies deal Physical DMG, they inflict extra damage equal to 28% of Norn\u0027s ATK."
+      },
+      {
+        "description": "Reduces damage taken by all allies by 24% for 10s. When the allies deal Physical DMG, they inflict extra damage equal to 32% of Norn\u0027s ATK."
+      },
+      {
+        "description": "Reduces damage taken by all allies by 27% for 10s. When the allies deal Physical DMG, they inflict extra damage equal to 36% of Norn\u0027s ATK."
+      },
+      {
+        "description": "Reduces damage taken by all allies by 30% for 10s. When the allies deal Physical DMG, they inflict extra damage equal to 40% of Norn\u0027s ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Holy Heart",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Heals all allies for 10% of Norn\u0027s ATK every 2s."
+      },
+      {
+        "description": "Heals all allies for 10% of Norn\u0027s ATK every 1 second."
+      }
+    ]
+  }
+}

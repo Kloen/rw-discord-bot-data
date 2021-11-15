@@ -1,0 +1,83 @@
+{
+  "name": "Mayahuel",
+  "rarity": "SSR",
+  "element": "Mercury",
+  "vocation": "Mage",
+  "ascension4": false,
+  "nickname": "Forest Blessing",
+  "va": {
+    "jpn": "Tae Okajima"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "Jun. 20",
+    "Height": "167cm",
+    "Weight": "？",
+    "Hobby": "?"
+  },
+  "skill1": {
+    "name": "Storm of Nature",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Summons the Storm of Nature that attacks all enemies 3 times, each time dealing Magic DMG equal to 60% of ATK."
+      },
+      {
+        "description": "Summons the Storm of Nature that attacks all enemies 3 times, each time dealing Magic DMG equal to 70% of ATK."
+      },
+      {
+        "description": "Summons the Storm of Nature that attacks all enemies 3 times, each time dealing Magic DMG equal to 80% of ATK."
+      },
+      {
+        "description": "Summons the Storm of Nature that attacks all enemies 3 times, each time dealing Magic DMG equal to 90% of ATK."
+      },
+      {
+        "description": "Summons the Storm of Nature that attacks all enemies 3 times, each time dealing Magic DMG equal to 100% of ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Starlight Wrath",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Summons the Power of Stars, dealing Magic DMG equal to 120% ATK 3 times to a random target and applies Soul Disperse to the enemy for 10s. Soul Disperse: Reduces Magic DEF by 5% of Mayahuel\u0027s ATK, up to 50%."
+      },
+      {
+        "description": "Summons the Power of Stars, dealing Magic DMG equal to 140% ATK 3 times to a random target and applies Soul Disperse to the enemy for 10s. Soul Disperse: Reduces Magic DEF by 5% of Mayahuel\u0027s ATK, up to 50%."
+      },
+      {
+        "description": "Summons the Power of Stars, dealing Magic DMG equal to 160% ATK 3 times to a random target and applies Soul Disperse to the enemy for 10s. Soul Disperse: Reduces Magic DEF by 5% of Mayahuel\u0027s ATK, up to 50%."
+      },
+      {
+        "description": "Summons the Power of Stars, dealing Magic DMG equal to 180% ATK 3 times to a random target and applies Soul Disperse to the enemy for 10s. Soul Disperse: Reduces Magic DEF by 5% of Mayahuel\u0027s ATK, up to 50%."
+      },
+      {
+        "description": "Summons the Power of Stars, dealing Magic DMG equal to 200% ATK 3 times to a random target and applies Soul Disperse to the enemy for 10s. Soul Disperse: Reduces Magic DEF by 5% of Mayahuel\u0027s ATK, up to 50%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Natural Law",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Heals all allies for 15% of ATK."
+      },
+      {
+        "description": "Heals all allies for 30% of ATK."
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Cuspidata",
+  "rarity": "R",
+  "element": "Mercury",
+  "vocation": "Mage",
+  "ascension4": false,
+  "nickname": "Red Pupils of Madness",
+  "va": {
+    "jpn": "Akiho Suzumoto"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "17",
+    "Birthday": "Apr. 15",
+    "Height": "152cm",
+    "Weight": "？",
+    "Hobby": "Collecting dolls/ Dressing"
+  },
+  "skill1": {
+    "name": "Great Eye",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "Single Enemy",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Attacks a single target 3 times, each time dealing Magic DMG equal to 60% of Cuspidata\u0027s ATK."
+      },
+      {
+        "description": "Attacks a single target 3 times, each time dealing Magic DMG equal to 70% of Cuspidata\u0027s ATK."
+      },
+      {
+        "description": "Attacks a single target 3 times, each time dealing Magic DMG equal to 80% of Cuspidata\u0027s ATK."
+      },
+      {
+        "description": "Attacks a single target 3 times, each time dealing Magic DMG equal to 90% of Cuspidata\u0027s ATK."
+      },
+      {
+        "description": "Attacks a single target 3 times, each time dealing Magic DMG equal to 100% of Cuspidata\u0027s ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Redeye",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "Self",
+    "type": "Enhance",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Increases DMG dealt by 30% for 5s."
+      },
+      {
+        "description": "Increases DMG dealt by 35% for 5s."
+      },
+      {
+        "description": "Increases DMG dealt by 40% for 5s."
+      },
+      {
+        "description": "Increases DMG dealt by 45% for 5s."
+      },
+      {
+        "description": "Increases DMG dealt by 50% for 5s."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Evil Eye",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Normal attack and skills reduce enemies\u0027 damage by 3% for 6s. Can stack up to 15%."
+      },
+      {
+        "description": "Normal attack and skills reduce enemies\u0027 damage by 6% for 6s. Can stack up to up to 30%."
+      }
+    ]
+  }
+}

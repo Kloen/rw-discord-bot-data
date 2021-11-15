@@ -1,0 +1,83 @@
+{
+  "name": "Croche",
+  "rarity": "SR",
+  "element": "Brimstone",
+  "vocation": "Healer",
+  "ascension4": false,
+  "nickname": "Maid of the Belfry",
+  "va": {
+    "jpn": "Rena Maeda"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "20",
+    "Birthday": "Dec. 29",
+    "Height": "170cm",
+    "Weight": "？",
+    "Hobby": "Housework"
+  },
+  "skill1": {
+    "name": "Soft Glow",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "Single Ally",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Heals the Doll with the lowest Health for 180% of Croche\u0027s ATK."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health for 210% of Croche\u0027s ATK."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health for 240% of Croche\u0027s ATK."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health for 270% of Croche\u0027s ATK."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health for 300% of Croche\u0027s ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Flash",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Enhance",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Removes debuffs from all allies. For the next 10 seconds, increases allies\u0027 Crit Chance by 1.2% each time they deal Physical DMG, up to 12%."
+      },
+      {
+        "description": "Removes debuffs from all allies. For the next 10 seconds, increases allies\u0027 Crit Chance by 1.4% each time they deal Physical DMG, up to 14%."
+      },
+      {
+        "description": "Removes debuffs from all allies. For the next 10 seconds, increases allies\u0027 Crit Chance by 1.6% each time they deal Physical DMG, up to 16%."
+      },
+      {
+        "description": "Removes debuffs from all allies. For the next 10 seconds, increases allies\u0027 Crit Chance by 1.8% each time they deal Physical DMG, up to 18%."
+      },
+      {
+        "description": "Removes debuffs from all allies. For the next 10 seconds, increases allies\u0027 Crit Chance by 2% each time they deal Physical DMG, up to 20%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Dark Contract",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Croche has a 10% chance to fully restore her Health when it drops to 0."
+      },
+      {
+        "description": "Croche has a 20% chance to fully restore her Health when it drops to 0."
+      }
+    ]
+  }
+}

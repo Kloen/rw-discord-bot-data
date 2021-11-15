@@ -1,0 +1,84 @@
+{
+  "name": "Ruda",
+  "rarity": "SR",
+  "element": "Brimstone",
+  "vocation": "Healer",
+  "artistAscension4": "美和野らぐ",
+  "ascension4": true,
+  "nickname": "Starlight Collector",
+  "va": {
+    "jpn": "Aoi Yūki"
+  },
+  "artist": "美和野らぐ",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "?",
+    "Height": "143cm",
+    "Weight": "？",
+    "Hobby": "?"
+  },
+  "skill1": {
+    "name": "Starsurge",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Heals all allies for 144% of ATK."
+      },
+      {
+        "description": "Heals all allies for 168% of ATK."
+      },
+      {
+        "description": "Heals all allies for 192% of ATK."
+      },
+      {
+        "description": "Heals all allies for 216% of ATK."
+      },
+      {
+        "description": "Heals all allies for 240% of ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Starfall",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 180% of ATK to all enemies and places Brilliance on all allies for 10s. Brilliance: When dealing Physical DMG, inflicts extra Physical DMG equal to 24% of Ruda\u0027s ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 210% of ATK to all enemies and places Brilliance on all allies for 10s. Brilliance: When dealing Physical DMG, inflicts extra Physical DMG equal to 28% of Ruda\u0027s ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 240% of ATK to all enemies and places Brilliance on all allies for 10s. Brilliance: When dealing Physical DMG, inflicts extra Physical DMG equal to 32% of Ruda\u0027s ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 270% of ATK to all enemies and places Brilliance on all allies for 10s. Brilliance: When dealing Physical DMG, inflicts extra Physical DMG equal to 36% of Ruda\u0027s ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 300% of ATK to all enemies and places Brilliance on all allies for 10s. Brilliance: When dealing Physical DMG, inflicts extra Physical DMG equal to 40% of Ruda\u0027s ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Collect",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "When using skills, there is a 10% chance to generate 1 Chaos Energy."
+      },
+      {
+        "description": "When using skills, there is a20% chance to generate 1 Chaos Energy."
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Yurugu",
+  "rarity": "SR",
+  "element": "Mercury",
+  "vocation": "Guardian",
+  "artistAscension4": "PixelNeko",
+  "ascension4": true,
+  "nickname": "Coffin of Voidness",
+  "va": {
+    "jpn": "Kana Ueda"
+  },
+  "artist": "薛定谔的食铁兽",
+  "profile": {
+    "Gender": "Female",
+    "Age": "14",
+    "Birthday": "May. 2",
+    "Height": "137cm",
+    "Weight": "？",
+    "Hobby": "?"
+  },
+  "skill1": {
+    "name": "Casket Defense",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Allies",
+    "type": "Support",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Yurugu places a Shield on allies, absorbing damage equal to 30% of max Health. All damage dealt to allies in the next 10s are redirected to Yurugu."
+      },
+      {
+        "description": "Yurugu places a Shield on allies, absorbing damage equal to 35% of max Health. All damage dealt to allies in the next 10s are redirected to Yurugu."
+      },
+      {
+        "description": "Yurugu places a Shield on allies, absorbing damage equal to 40% of max Health. All damage dealt to allies in the next 10s are redirected to Yurugu."
+      },
+      {
+        "description": "Yurugu places a Shield on allies, absorbing damage equal to 45% of max Health. All damage dealt to allies in the next 10s are redirected to Yurugu."
+      },
+      {
+        "description": "Yurugu places a Shield on allies, absorbing damage equal to 50% of max Health. All damage dealt to allies in the next 10s are redirected to Yurugu."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Void Surge",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 270% of ATK to all enemies, dispels their buffs, and reduces their Magic DEF by 400 for 8s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 315% of ATK to all enemies, dispels their buffs, and reduces their Magic DEF by 400 for 8s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 360% of ATK to all enemies, dispels their buffs, and reduces their Magic DEF by 400 for 8s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 405% of ATK to all enemies, dispels their buffs, and reduces their Magic DEF by 400 for 8s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 450% of ATK to all enemies, dispels their buffs, and reduces their Magic DEF by 400 for 8s."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Power of Void",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Yurugu has a 10% chance to fully restore her Health when it reaches 0."
+      },
+      {
+        "description": "Yurugu has a 20% chance to fully restore her Health when it reaches 0."
+      }
+    ]
+  }
+}

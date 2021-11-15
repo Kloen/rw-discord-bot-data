@@ -1,0 +1,83 @@
+{
+  "name": "Shuffle",
+  "rarity": "SSR",
+  "element": "Brimstone",
+  "vocation": "Assassin",
+  "ascension4": false,
+  "nickname": "Annihilator of Existence",
+  "va": {
+    "jpn": "Rena Maeda"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "16",
+    "Birthday": "Feb. 14",
+    "Height": "162cm",
+    "Weight": "？",
+    "Hobby": "Cute dresses/ Flowers/ Sharp objects"
+  },
+  "skill1": {
+    "name": "Locked",
+    "chaosCost": 0,
+    "orderCost": 1,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Attacks the enemies in the back row twice, each dealing Physical DMG equal to 48% of ATK and increasing Crit Chance by 6% for 5s. Can stack up to 30%."
+      },
+      {
+        "description": "Attacks the enemies in the back row twice, each dealing Physical DMG equal to 56% of ATK and increasing Crit Chance by 6% for 5s. Can stack up to 30%."
+      },
+      {
+        "description": "Attacks the enemies in the back row twice, each dealing Physical DMG equal to 64% of ATK and increasing Crit Chance by 6% for 5s. Can stack up to 30%."
+      },
+      {
+        "description": "Attacks the enemies in the back row twice, each dealing Physical DMG equal to 72% of ATK and increasing Crit Chance by 6% for 5s. Can stack up to 30%."
+      },
+      {
+        "description": "Attacks the enemies in the back row twice, each dealing Physical DMG equal to 80% of ATK and increasing Crit Chance by 6% for 5s. Can stack up to 30%."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Wipe",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Attacks the enemy with the lowest Health 6 times, each attack dealing Physical DMG equal to 60% of ATK. When the target is below 50% Health, deals 50% more damage."
+      },
+      {
+        "description": "Attacks the enemy with the lowest Health 6 times, each attack dealing Physical DMG equal to 70% of ATK. When the target is below 50% Health, deals 50% more damage."
+      },
+      {
+        "description": "Attacks the enemy with the lowest Health 6 times, each attack dealing Physical DMG equal to 80% of ATK. When the target is below 50% Health, deals 50% more damage."
+      },
+      {
+        "description": "Attacks the enemy with the lowest Health 6 times, each attack dealing Physical DMG equal to 90% of ATK. When the target is below 50% Health, deals 50% more damage."
+      },
+      {
+        "description": "Attacks the enemy with the lowest Health 6 times, each attack dealing Physical DMG equal to 100% of ATK. When the target is below 50% Health, deals 50% more damage."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Thirst",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases Physical DMG dealt by 2.5% for each damage taken, up to 25%. Can trigger once every 2 seconds."
+      },
+      {
+        "description": "Increases Physical DMG dealt by 5% for each damage taken, up to 50%. Can trigger once every 2 seconds."
+      }
+    ]
+  }
+}

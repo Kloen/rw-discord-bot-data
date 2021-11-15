@@ -1,0 +1,84 @@
+{
+  "name": "Tama",
+  "rarity": "SSR",
+  "element": "Saltstone",
+  "vocation": "Compeller",
+  "artistAscension4": "TAKUBON",
+  "ascension4": true,
+  "nickname": "Will of the God",
+  "va": {
+    "jpn": "Rui Tanabe"
+  },
+  "artist": "TAKUBON",
+  "profile": {
+    "Gender": "Female",
+    "Age": "16",
+    "Birthday": "Sep. 2",
+    "Height": "155cm",
+    "Weight": "？",
+    "Hobby": "Beautiful threads/ Flowers"
+  },
+  "skill1": {
+    "name": "The Colorless Lands",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Summons a magic barrier to reduce damage taken by all allies by 12% and heals them for 24% of Tama\u0027s ATK every second for 10s."
+      },
+      {
+        "description": "Summons a magic barrier to reduce damage taken by all allies by 14% and heals them for 28% of Tama\u0027s ATK every second for 10s."
+      },
+      {
+        "description": "Summons a magic barrier to reduce damage taken by all allies by 16% and heals them for 32% of Tama\u0027s ATK every second for 10s."
+      },
+      {
+        "description": "Summons a magic barrier to reduce damage taken by all allies by 18% and heals them for 36% of Tama\u0027s ATK every second for 10s."
+      },
+      {
+        "description": "Summons a magic barrier to reduce damage taken by all allies by 20% and heals them for 40% of Tama\u0027s ATK every second for 10s."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Twilight State",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "Front Row Allies",
+    "type": "Enhance",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Heals the ally in the front row for 180% of Tama\u0027s ATK and increases their damage or healing effect of next active skill by 60%."
+      },
+      {
+        "description": "Heals the ally in the front row for 210% of Tama\u0027s ATK and increases their damage or healing effect of next active skill by 70%."
+      },
+      {
+        "description": "Heals the ally in the front row for 240% of Tama\u0027s ATK and increases their damage or healing effect of next active skill by 80%."
+      },
+      {
+        "description": "Heals the ally in the front row for 270% of Tama\u0027s ATK and increases their damage or healing effect of next active skill by 90%."
+      },
+      {
+        "description": "Heals the ally in the front row for 300% of Tama\u0027s ATK and increases their damage or healing effect of next active skill by 100%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Hollow Dream",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Heals an ally for 50% of ATK when attacking."
+      },
+      {
+        "description": "Heals all allies for 50% of ATK when attacking."
+      }
+    ]
+  }
+}

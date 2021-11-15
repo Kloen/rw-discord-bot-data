@@ -1,0 +1,84 @@
+{
+  "name": "Anemone",
+  "rarity": "UR",
+  "element": "Mercury",
+  "vocation": "Mage",
+  "artistAscension4": "夜ノみつき",
+  "ascension4": true,
+  "nickname": "Elementalist",
+  "va": {
+    "jpn": "Harumi Sakurai"
+  },
+  "artist": "夜ノみつき",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "Jun. 19",
+    "Height": "155cm",
+    "Weight": "？",
+    "Hobby": "?"
+  },
+  "skill1": {
+    "name": "Great Fire",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 180% of ATK to all enemies and applies a stack of Burning to them for 10s. Can stack up to 10 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 210% of ATK to all enemies and applies a stack of Burning to them for 10s. Can stack up to 10 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 240% of ATK to all enemies and applies a stack of Burning to them for 10s. Can stack up to 10 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 270% of ATK to all enemies and applies a stack of Burning to them for 10s. Can stack up to 10 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 300% of ATK to all enemies and applies a stack of Burning to them for 10s. Can stack up to 10 times."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Soul Flame",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 270% of ATK to all enemies. Each stack of Burning on the target deals extra damage equal to 48% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 315% of ATK to all enemies. Each stack of Burning on the target deals extra damage equal to 56% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 360% of ATK to all enemies. Each stack of Burning on the target deals extra damage equal to 64% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 405% of ATK to all enemies. Each stack of Burning on the target deals extra damage equal to 72% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 450% of ATK to all enemies. Each stack of Burning on the target deals extra damage equal to 80% of ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Divine Tsundere",
+    "type": "Magic ATK",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases ATK by 12.5% during the first 30 seconds of combat."
+      },
+      {
+        "description": "Increases ATK by 25% during the first 30 seconds of combat."
+      }
+    ]
+  }
+}

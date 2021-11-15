@@ -1,0 +1,83 @@
+{
+  "name": "Primula",
+  "rarity": "R",
+  "element": "Brimstone",
+  "vocation": "Healer",
+  "ascension4": false,
+  "nickname": "Floral Apothecary",
+  "va": {
+    "jpn": "Misato Fukuen"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "18",
+    "Birthday": "Mar. 2",
+    "Height": "155cm",
+    "Weight": "？",
+    "Hobby": "Picking flowers/ Making herbs"
+  },
+  "skill1": {
+    "name": "Aroma",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "The aroma of flowers heals all allies for 144% of Primula\u0027s ATK."
+      },
+      {
+        "description": "The aroma of flowers heals all allies for 168% of Primula\u0027s ATK."
+      },
+      {
+        "description": "The aroma of flowers heals all allies for 192% of Primula\u0027s ATK."
+      },
+      {
+        "description": "The aroma of flowers heals all allies for 216% of Primula\u0027s ATK."
+      },
+      {
+        "description": "The aroma of flowers heals all allies for 240% of Primula\u0027s ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Aroma Healing",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Heals all allies for 180% of Primula\u0027s ATK. All allies deal extra damage equal to 24% of Primula\u0027s ATK for 10s when landing physical attacks."
+      },
+      {
+        "description": "Heals all allies for 210% of Primula\u0027s ATK. All allies deal extra damage equal to 28% of Primula\u0027s ATK for 10s when landing physical attacks."
+      },
+      {
+        "description": "Heals all allies for 240% of Primula\u0027s ATK. All allies deal extra damage equal to 32% of Primula\u0027s ATK for 10s when landing physical attacks."
+      },
+      {
+        "description": "Heals all allies for 270% of Primula\u0027s ATK. All allies deal extra damage equal to 36% of Primula\u0027s ATK for 10s when landing physical attacks."
+      },
+      {
+        "description": "Heals all allies for 300% of Primula\u0027s ATK. All allies deal extra damage equal to 40% of Primula\u0027s ATK for 10s when landing physical attacks."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Flower Dress",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases healing effect by 5%."
+      },
+      {
+        "description": "Increases healing effect by 10%."
+      }
+    ]
+  }
+}

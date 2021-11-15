@@ -1,0 +1,83 @@
+{
+  "name": "Tuonel",
+  "rarity": "UR",
+  "element": "Saltstone",
+  "vocation": "Healer",
+  "ascension4": false,
+  "nickname": "Hybrid Healer",
+  "va": {
+    "jpn": "Wakana Maruoka"
+  },
+  "artist": "イセ川ヤスタカ",
+  "profile": {
+    "Gender": "Female",
+    "Age": "15",
+    "Birthday": "Feb. 1",
+    "Height": "149cm",
+    "Weight": "？",
+    "Hobby": "Treating the injured/ Sewing/ Gardening"
+  },
+  "skill1": {
+    "name": "Equal Healing",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Heals all allies for 96% of Tuonel\u0027s ATK and grants them a Shield that absorbs the same amount of damage for 5s."
+      },
+      {
+        "description": "Heals all allies for 112% of Tuonel\u0027s ATK and grants them a Shield that absorbs the same amount of damage for 5s."
+      },
+      {
+        "description": "Heals all allies for 128% of Tuonel\u0027s ATK and grants them a Shield that absorbs the same amount of damage for 5s."
+      },
+      {
+        "description": "Heals all allies for 134% of Tuonel\u0027s ATK and grants them a Shield that absorbs the same amount of damage for 5s."
+      },
+      {
+        "description": "Heals all allies for 160% of Tuonel\u0027s ATK and grants them a Shield that absorbs the same amount of damage for 5s."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Forbidden Dark Moon",
+    "chaosCost": 0,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Enhance",
+    "skillType": "charging",
+    "variations": [
+      {
+        "description": "Heals all allies for 30% of Tuonel\u0027s ATK per second for 10s, and places Nightwish on them for 10s. Nightwish: Increases Dolls\u0027 ATK by 24% of Tuonel\u0027s ATK and damage dealt by 15%."
+      },
+      {
+        "description": "Heals all allies for 35% of Tuonel\u0027s ATK per second for 10s, and places Nightwish on them for 10s. Nightwish: Increases Dolls\u0027 ATK by 28% of Tuonel\u0027s ATK and damage dealt by 15%."
+      },
+      {
+        "description": "Heals all allies for 40% of Tuonel\u0027s ATK per second for 10s, and places Nightwish on them for 10s. Nightwish: Increases Dolls\u0027 ATK by 32% of Tuonel\u0027s ATK and damage dealt by 15%."
+      },
+      {
+        "description": "Heals all allies for 45% of Tuonel\u0027s ATK per second for 10s, and places Nightwish on them for 10s. Nightwish: Increases Dolls\u0027 ATK by 36% of Tuonel\u0027s ATK and damage dealt by 15%."
+      },
+      {
+        "description": "Heals all allies for 50% of Tuonel\u0027s ATK per second for 10s, and places Nightwish on them for 10s. Nightwish: Increases Dolls\u0027 ATK by 40% of Tuonel\u0027s ATK and damage dealt by 15%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Child of Taboo",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Generates 1 Chaos Energy every 4 seconds."
+      },
+      {
+        "description": "Generates 1 Chaos Energy every 2 seconds."
+      }
+    ]
+  }
+}

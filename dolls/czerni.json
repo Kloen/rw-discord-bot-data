@@ -1,0 +1,84 @@
+{
+  "name": "Czerni",
+  "rarity": "SR",
+  "element": "Mercury",
+  "vocation": "Compeller",
+  "artistAscension4": "PixelNeko",
+  "ascension4": true,
+  "nickname": "Angel of Deception",
+  "va": {
+    "jpn": "Tomoe Tamiyasu"
+  },
+  "artist": "薛定谔的食铁兽",
+  "profile": {
+    "Gender": "Female",
+    "Age": "18",
+    "Birthday": "Apr. 7",
+    "Height": "155cm",
+    "Weight": "？",
+    "Hobby": "Adventuring"
+  },
+  "skill1": {
+    "name": "Artifice",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Enemies",
+    "type": "Debuff",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Generates 1 Order Energy, heals all allies for 120% of Czerni\u0027s ATK, and increases Magic DMG taken by enemies by 18%."
+      },
+      {
+        "description": "Generates 1 Order Energy, heals all allies for 140% of Czerni\u0027s ATK, and increases Magic DMG taken by enemies by 21%."
+      },
+      {
+        "description": "Generates 1 Order Energy, heals all allies for 160% of Czerni\u0027s ATK, and increases Magic DMG taken by enemies by 24%."
+      },
+      {
+        "description": "Generates 1 Order Energy, heals all allies for 180% of Czerni\u0027s ATK, and increases Magic DMG taken by enemies by 27%."
+      },
+      {
+        "description": "Generates 1 Order Energy, heals all allies for 200% of Czerni\u0027s ATK, and increases Magic DMG taken by enemies by 30%."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Fatum",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Draws a card from the deck. A healing card heals all allies for 270% of Czerni\u0027s ATK and a damage card deals Magic DMG equal to 270% of ATK to all enemies."
+      },
+      {
+        "description": "Draws a card from the deck. A healing card heals all allies for 315% of Czerni\u0027s ATK and a damage card deals Magic DMG equal to 315% of ATK to all enemies."
+      },
+      {
+        "description": "Draws a card from the deck. A healing card heals all allies for 360% of Czerni\u0027s ATK and a damage card deals Magic DMG equal to 360% of ATK to all enemies."
+      },
+      {
+        "description": "Draws a card from the deck. A healing card heals all allies for 405% of Czerni\u0027s ATK and a damage card deals Magic DMG equal to 405% of ATK to all enemies."
+      },
+      {
+        "description": "Draws a card from the deck. A healing card heals all allies for 450% of Czerni\u0027s ATK and a damage card deals Magic DMG equal to 450% of ATK to all enemies."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Wordsmaster",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Has a 20% chance to restore 1 Chaos Energy."
+      },
+      {
+        "description": "Has a 40% chance to restore 1 Chaos Energy."
+      }
+    ]
+  }
+}

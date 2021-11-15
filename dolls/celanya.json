@@ -1,0 +1,83 @@
+{
+  "name": "Celanya",
+  "rarity": "UR",
+  "element": "Brimstone",
+  "vocation": "Assassin",
+  "ascension4": false,
+  "nickname": "Azure Archer of Wind",
+  "va": {
+    "jpn": "Chisa Suganuma"
+  },
+  "artist": "えびら",
+  "profile": {
+    "Gender": "Female",
+    "Age": "18",
+    "Birthday": "Nov. 23",
+    "Height": "171cm",
+    "Weight": "？",
+    "Hobby": "Hunting/ Stitching"
+  },
+  "skill1": {
+    "name": "Blast Arrows",
+    "chaosCost": 0,
+    "orderCost": 1,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Attacks all enemies 3 times, each time dealing Physical DMG equal to 30% of ATK."
+      },
+      {
+        "description": "Attacks all enemies 3 times, each time dealing Physical DMG equal to 35% of ATK."
+      },
+      {
+        "description": "Attacks all enemies 3 times, each time dealing Physical DMG equal to 40% of ATK."
+      },
+      {
+        "description": "Attacks all enemies 3 times, each time dealing Physical DMG equal to 45% of ATK."
+      },
+      {
+        "description": "Attacks all enemies 3 times, each time dealing Physical DMG equal to 50% of ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Azure Wind",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Attacks all enemies 5 times, each dealing Physical DMG equal to 60% of ATK. Within 10 seconds, when the allies deal Physical DMG, they inflict extra damage equal to 30% of Celanya\u0027s ATK."
+      },
+      {
+        "description": "Attacks all enemies 5 times, each dealing Physical DMG equal to 70% of ATK. Within 10 seconds, when the allies deal Physical DMG, they inflict extra damage equal to 35% of Celanya\u0027s ATK."
+      },
+      {
+        "description": "Attacks all enemies 5 times, each dealing Physical DMG equal to 80% of ATK. Within 10 seconds, when the allies deal Physical DMG, they inflict extra damage equal to 40% of Celanya\u0027s ATK."
+      },
+      {
+        "description": "Attacks all enemies 5 times, each dealing Physical DMG equal to 90% of ATK. Within 10 seconds, when the allies deal Physical DMG, they inflict extra damage equal to 45% of Celanya\u0027s ATK."
+      },
+      {
+        "description": "Attacks all enemies 5 times, each dealing Physical DMG equal to 100% of ATK. Within 10 seconds, when the allies deal Physical DMG, they inflict extra damage equal to 50% of Celanya\u0027s ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Dashing Arrows",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "With each attack, deals 1% more damage and ignores the enemies\u0027 Physical DEF equal to 1% of self ATK. Can stack up to 10% for both."
+      },
+      {
+        "description": "With each attack, deals 2% more damage and ignores the enemies\u0027 Physical DEF equal to 2% of self ATK. Can stack up to 20% for both."
+      }
+    ]
+  }
+}

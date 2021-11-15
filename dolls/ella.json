@@ -1,0 +1,84 @@
+{
+  "name": "Ella",
+  "rarity": "UR",
+  "element": "Saltstone",
+  "vocation": "Destroyer",
+  "artistAscension4": "PHI",
+  "ascension4": true,
+  "nickname": "Dragon Lass",
+  "va": {
+    "jpn": "Yuki Tanaka"
+  },
+  "artist": "夜ノみつき",
+  "profile": {
+    "Gender": "Female",
+    "Age": "988",
+    "Birthday": "?",
+    "Height": "140cm",
+    "Weight": "？",
+    "Hobby": "Pranks"
+  },
+  "skill1": {
+    "name": "Scorching Breath",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 240% of ATK to all enemies, dispels their buffs, reduces their ATK by 20% for 5s. When in Dragon form, also reduces their Physical DEF by 30% of Ella\u0027s ATK for 10s."
+      },
+      {
+        "description": "Deals Physical DMG equal to 280% of ATK to all enemies, dispels their buffs, reduces their ATK by 20% for 5s. When in Dragon form, also reduces their Physical DEF by 30% of Ella\u0027s ATK for 10s."
+      },
+      {
+        "description": "Deals Physical DMG equal to 320% of ATK to all enemies, dispels their buffs, reduces their ATK by 20% for 5s. When in Dragon form, also reduces their Physical DEF by 30% of Ella\u0027s ATK for 10s."
+      },
+      {
+        "description": "Deals Physical DMG equal to 360% of ATK to all enemies, dispels their buffs, reduces their ATK by 20% for 5s. When in Dragon form, also reduces their Physical DEF by 30% of Ella\u0027s ATK for 10s."
+      },
+      {
+        "description": "Deals Physical DMG equal to 400% of ATK to all enemies, dispels their buffs, reduces their ATK by 20% for 5s. When in Dragon form, also reduces their Physical DEF by 30% of Ella\u0027s ATK for 10s."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Dragon Blood",
+    "chaosCost": 5,
+    "orderCost": 0,
+    "range": "Self",
+    "type": "Transform",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Normal Attack deals damage to all enemies. Increases Ella\u0027s damage dealt by 30% and her max Health by 50%."
+      },
+      {
+        "description": "Normal Attack deals damage to all enemies. Increases Ella\u0027s damage dealt by 35% and her max Health by 50%."
+      },
+      {
+        "description": "Normal Attack deals damage to all enemies. Increases Ella\u0027s damage dealt by 40% and her max Health by 50%."
+      },
+      {
+        "description": "Normal Attack deals damage to all enemies. Increases Ella\u0027s damage dealt by 45% and her max Health by 50%."
+      },
+      {
+        "description": "Normal Attack deals damage to all enemies. Increases Ella\u0027s damage dealt by 50% and her max Health by 50%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Ancient Inheritance",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Recovers 2.5% of max Health per second and reduces damage taken by 10%."
+      },
+      {
+        "description": "Recovers 5% of max Health per second and reduces damage taken by 20%."
+      }
+    ]
+  }
+}

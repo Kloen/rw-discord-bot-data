@@ -1,0 +1,164 @@
+{
+  "name": "Witch",
+  "rarity": "SR",
+  "element": "Aether",
+  "vocation": "Witch",
+  "ascension4": false,
+  "nickname": "Witch of the Void",
+  "va": {
+    "jpn": "?"
+  },
+  "artist": "不可燃物",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "?",
+    "Height": "？",
+    "Weight": "？",
+    "Hobby": "?"
+  },
+  "skill1": {
+    "name": "Soul Arrow",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "Single Enemy",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 180% of ATK to a single target and increases the effect of the next skill by 20% for 5s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 240% of ATK to a single target and increases the effect of the next skill by 20% for 5s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 300% of ATK to a single target and increases the effect of the next skill by 20% for 5s."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Chronospace Gate",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Damage Reduction",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Summons a Chronospace Gate for 1.8 seconds that transports the spell to another Chronospace."
+      },
+      {
+        "description": "Summons a Chronospace Gate for 2.4 seconds that transports the spell to another Chronospace."
+      },
+      {
+        "description": "Summons a Chronospace Gate for 3 seconds that transports the spell to another Chronospace."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Phase Shifting",
+    "type": "Magic ATK",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "When consuming Chaos Energy, there is a 50% chance to generate 1 Chaos Energy."
+      },
+      {
+        "description": "Consumes 1 less Chaos Energy when using skills."
+      }
+    ]
+  },
+  "skill60001": {
+    "name": "Bloom",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Enhance",
+    "skillType": "active",
+    "comborate": 0,
+    "variations": [
+      {
+        "requiredItems": {
+          "35002": "0"
+        },
+        "description": "Unleashes Asherah\u0027s power, increasing damage dealt by all allies by 15% and healing all allies for \u003cspan style\u003d\"color: #82C65D;\"\u003e51%\u003c/span\u003e Witch\u0027s ATK for 5s."
+      },
+      {
+        "requiredItems": {
+          "31100": 3,
+          "35002": "0"
+        },
+        "description": "Unleashes Asherah\u0027s power, increasing damage dealt by all allies by 15% and healing all allies for \u003cspan style\u003d\"color: #82C65D;\"\u003e68%\u003c/span\u003e Witch\u0027s ATK for 5s."
+      },
+      {
+        "requiredItems": {
+          "31100": 3,
+          "35002": "0"
+        },
+        "description": "Unleashes Asherah\u0027s power, increasing damage dealt by all allies by 15% and healing all allies for \u003cspan style\u003d\"color: #82C65D;\"\u003e85%\u003c/span\u003e Witch\u0027s ATK for 5s."
+      }
+    ]
+  },
+  "skill60005": {
+    "name": "Time Freeze",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Debuff",
+    "skillType": "active",
+    "comborate": 0,
+    "variations": [
+      {
+        "requiredItems": {
+          "35002": "0"
+        },
+        "description": "Freezes enemy\u0027s time for \u003cspan style\u003d\"color: #82C65D;\"\u003e1.5\u003c/span\u003es."
+      },
+      {
+        "requiredItems": {
+          "31100": 4,
+          "35002": "0"
+        },
+        "description": "Freezes enemy\u0027s time for \u003cspan style\u003d\"color: #82C65D;\"\u003e2\u003c/span\u003es."
+      },
+      {
+        "requiredItems": {
+          "31100": 4,
+          "35002": "0"
+        },
+        "description": "Freezes enemy\u0027s time for \u003cspan style\u003d\"color: #82C65D;\"\u003e3\u003c/span\u003es."
+      }
+    ]
+  },
+  "skill60002": {
+    "name": "Cleansing",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Damage Reduction",
+    "skillType": "active",
+    "comborate": 0,
+    "variations": [
+      {
+        "requiredItems": {
+          "35002": "0"
+        },
+        "description": "Unleashes Cersivey\u0027s power, removing debuffs on all allies and reducing the damage taken by \u003cspan style\u003d\"color: #82C65D;\"\u003e12%\u003c/span\u003e for 5s."
+      },
+      {
+        "requiredItems": {
+          "31100": 5,
+          "35002": "0"
+        },
+        "description": "Unleashes Cersivey\u0027s power, removing debuffs on all allies and reducing the damage taken by \u003cspan style\u003d\"color: #82C65D;\"\u003e16%\u003c/span\u003e for 5s."
+      },
+      {
+        "requiredItems": {
+          "31100": 5,
+          "35002": "0"
+        },
+        "description": "Unleashes Cersivey\u0027s power, removing debuffs on all allies and reducing the damage taken by \u003cspan style\u003d\"color: #82C65D;\"\u003e20%\u003c/span\u003e for 5s."
+      }
+    ]
+  }
+}

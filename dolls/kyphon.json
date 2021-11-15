@@ -1,0 +1,83 @@
+{
+  "name": "Kyphon",
+  "rarity": "SSR",
+  "element": "Saltstone",
+  "vocation": "Destroyer",
+  "ascension4": false,
+  "nickname": "Deliverer of the Underworld",
+  "va": {
+    "jpn": "Aoi Yūki"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "Feb. 9",
+    "Height": "162cm",
+    "Weight": "？",
+    "Hobby": "Slacking off"
+  },
+  "skill1": {
+    "name": "Dance of Finality",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 240% of ATK to all enemies. Will be auto-cast again if any target is defeated."
+      },
+      {
+        "description": "Deals Physical DMG equal to 280% of ATK to all enemies. Will be auto-cast again if any target is defeated."
+      },
+      {
+        "description": "Deals Physical DMG equal to 320% of ATK to all enemies. Will be auto-cast again if any target is defeated."
+      },
+      {
+        "description": "Deals Physical DMG equal to 360% of ATK to all enemies. Will be auto-cast again if any target is defeated."
+      },
+      {
+        "description": "Deals Physical DMG equal to 400% of ATK to all enemies. Will be auto-cast again if any target is defeated."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Delivery to the Underworld",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "Single Enemy",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 360% of ATK to a single target and enters the Deathbringer status for 8s. When the enemy\u0027s Health is below 20%, this skill deals double damage. Deathbringer: Dance of Finality deals 30% more damage. Can stack up to 90%."
+      },
+      {
+        "description": "Deals Magic DMG equal to 420% of ATK to a single target and enters the Deathbringer status for 8s. When the enemy\u0027s Health is below 20%, this skill deals double damage. Deathbringer: Dance of Finality deals 30% more damage. Can stack up to 90%."
+      },
+      {
+        "description": "Deals Magic DMG equal to 480% of ATK to a single target and enters the Deathbringer status for 8s. When the enemy\u0027s Health is below 20%, this skill deals double damage. Deathbringer: Dance of Finality deals 30% more damage. Can stack up to 90%."
+      },
+      {
+        "description": "Deals Magic DMG equal to 540% of ATK to a single target and enters the Deathbringer status for 8s. When the enemy\u0027s Health is below 20%, this skill deals double damage. Deathbringer: Dance of Finality deals 30% more damage. Can stack up to 90%."
+      },
+      {
+        "description": "Deals Magic DMG equal to 600% of ATK to a single target and enters the Deathbringer status for 8s. When the enemy\u0027s Health is below 20%, this skill deals double damage. Deathbringer: Dance of Finality deals 30% more damage. Can stack up to 90%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Restless",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Enemies take 10% more damage for 5s."
+      },
+      {
+        "description": "Enemies take 20% more damage for 5 seconds."
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Eulalia",
+  "rarity": "R",
+  "element": "Saltstone",
+  "vocation": "Healer",
+  "ascension4": false,
+  "nickname": "Saintess of Lunia",
+  "va": {
+    "jpn": "Maaya Torigoe"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "17",
+    "Birthday": "Mar. 30",
+    "Height": "159cm",
+    "Weight": "？",
+    "Hobby": "Praying/ Reading"
+  },
+  "skill1": {
+    "name": "Lunia\u0027s Blessing",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "Single Ally",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Heals the Doll with the lowest Health by 180% of Eulalia\u0027s ATK."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health by 210% of Eulalia\u0027s ATK."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health by 240% of Eulalia\u0027s ATK."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health by 270% of Eulalia\u0027s ATK."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health by 300% of Eulalia\u0027s ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Revive",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "Single Ally",
+    "type": "Support",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Places a Blessing on the Doll with the lowest Health for 5s. The effect will be removed if the Doll takes any lethal damage, and heals the Doll for 360% of Eulalia\u0027s ATK."
+      },
+      {
+        "description": "Places a Blessing on the Doll with the lowest Health for 5s. The effect will be removed if the Doll takes any lethal damage, and heals the Doll for 420% of Eulalia\u0027s ATK."
+      },
+      {
+        "description": "Places a Blessing on the Doll with the lowest Health for 5s. The effect will be removed if the Doll takes any lethal damage, and heals the Doll for 480% of Eulalia\u0027s ATK."
+      },
+      {
+        "description": "Places a Blessing on the Doll with the lowest Health for 5s. The effect will be removed if the Doll takes any lethal damage, and heals the Doll for 540% of Eulalia\u0027s ATK."
+      },
+      {
+        "description": "Places a Blessing on the Doll with the lowest Health for 5s. The effect will be removed if the Doll takes any lethal damage, and heals the Doll for 600% of Eulalia\u0027s ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Celestial Blessing",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases healing effect by 5%."
+      },
+      {
+        "description": "Increases healing effect by 10%."
+      }
+    ]
+  }
+}

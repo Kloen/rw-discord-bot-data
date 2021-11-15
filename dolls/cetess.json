@@ -1,0 +1,83 @@
+{
+  "name": "Cetess",
+  "rarity": "SR",
+  "element": "Brimstone",
+  "vocation": "Guardian",
+  "ascension4": false,
+  "nickname": "Crimson Maiden of War",
+  "va": {
+    "jpn": "Maaya Torigoe"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "20",
+    "Birthday": "Jul. 29",
+    "Height": "173cm",
+    "Weight": "？",
+    "Hobby": "Weaponry"
+  },
+  "skill1": {
+    "name": "Sanguine Slash",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 270% of ATK to a single target. Generates a Shield equal to 50% of the damage dealt for 3s."
+      },
+      {
+        "description": "Deals Physical DMG equal to 315% of ATK to a single target. Generates a Shield equal to 50% of the damage dealt for 3s."
+      },
+      {
+        "description": "Deals Physical DMG equal to 360% of ATK to a single target. Generates a Shield equal to 50% of the damage dealt for 3s."
+      },
+      {
+        "description": "Deals Physical DMG equal to 405% of ATK to a single target. Generates a Shield equal to 50% of the damage dealt for 3s."
+      },
+      {
+        "description": "Deals Physical DMG equal to 450% of ATK to a single target. Generates a Shield equal to 50% of the damage dealt for 3s."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Shield Bash",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 270% of ATK to all enemies and stuns them for 0.5 seconds. Within the next 10 seconds, reduces their Physical DEF by 5% of Cetess\u0027 Physical DEF each time they take damage, up to 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 315% of ATK to all enemies and stuns them for 0.5 seconds. Within the next 10 seconds, reduces their Physical DEF by 5% of Cetess\u0027 Physical DEF each time they take damage, up to 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 360% of ATK to all enemies and stuns them for 0.5 seconds. Within the next 10 seconds, reduces their Physical DEF by 5% of Cetess\u0027 Physical DEF each time they take damage, up to 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 405% of ATK to all enemies and stuns them for 0.5 seconds. Within the next 10 seconds, reduces their Physical DEF by 5% of Cetess\u0027 Physical DEF each time they take damage, up to 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 450% of ATK to all enemies and stuns them for 0.5 seconds. Within the next 10 seconds, reduces their Physical DEF by 5% of Cetess\u0027 Physical DEF each time they take damage, up to 100%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Scarlet Dance",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases damage dealt by 5% for every 10% Health lost."
+      },
+      {
+        "description": "Increases damage dealt by 10% for every 10% max Health lost."
+      }
+    ]
+  }
+}

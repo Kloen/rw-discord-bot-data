@@ -1,0 +1,84 @@
+{
+  "name": "Octavia",
+  "rarity": "SR",
+  "element": "Saltstone",
+  "vocation": "Destroyer",
+  "artistAscension4": "ピナケス",
+  "ascension4": true,
+  "nickname": "Swordswoman of Squall",
+  "va": {
+    "jpn": "Reina Kondo"
+  },
+  "artist": "ピナケス",
+  "profile": {
+    "Gender": "Female",
+    "Age": "17",
+    "Birthday": "Apr. 30",
+    "Height": "159cm",
+    "Weight": "？",
+    "Hobby": "Swordplay Practice"
+  },
+  "skill1": {
+    "name": "Wind Cutter",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 180% of ATK to all enemies"
+      },
+      {
+        "description": "Deals Physical DMG equal to 210% of ATK to all enemies"
+      },
+      {
+        "description": "Deals Physical DMG equal to 240% of ATK to all enemies"
+      },
+      {
+        "description": "Deals Physical DMG equal to 270% of ATK to all enemies"
+      },
+      {
+        "description": "Deals Physical DMG equal to 300% of ATK to all enemies"
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Mind\u0027s Eye",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 180% of ATK to a single target, stuns them for 0.5s and increases the damage of the next active skill by 70%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 210% of ATK to a single target, stuns them for 0.5s and increases the damage of the next active skill by 70%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 240% of ATK to a single target, stuns them for 0.5s and increases the damage of the next active skill by 70%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 270% of ATK to a single target, stuns them for 0.5s and increases the damage of the next active skill by 70%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 300% of ATK to a single target, stuns them for 0.5s and increases the damage of the next active skill by 70%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Windrunner",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "When in combat, the firstly-used skill deals 50% more damage."
+      },
+      {
+        "description": "When in combat, the firstly-used skill deals 100% more damage."
+      }
+    ]
+  }
+}

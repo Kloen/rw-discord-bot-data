@@ -1,0 +1,83 @@
+{
+  "name": "Amanami",
+  "rarity": "UR",
+  "element": "Mercury",
+  "vocation": "Compeller",
+  "ascension4": false,
+  "nickname": "Princess of the Sun",
+  "va": {
+    "jpn": "Tomoyo Kurosawa"
+  },
+  "artist": "lunacle",
+  "profile": {
+    "Gender": "?",
+    "Age": "16",
+    "Birthday": "Aug. 8",
+    "Height": "153cm",
+    "Weight": "？",
+    "Hobby": "Poetry/ Dance"
+  },
+  "skill1": {
+    "name": "Radiant Wheel",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Generates 1 Order Energy and heals all allies for 258% of ATK. Also increases all allies\u0027 ATK by 15% for 10s."
+      },
+      {
+        "description": "Generates 1 Order Energy and heals all allies for 301% of ATK. Also increases all allies\u0027 ATK by 15% for 10s."
+      },
+      {
+        "description": "Generates 1 Order Energy and heals all allies for 344% of ATK. Also increases all allies\u0027 ATK by 15% for 10s."
+      },
+      {
+        "description": "Generates 1 Order Energy and heals all allies for 387% of ATK. Also increases all allies\u0027 ATK by 15% for 10s."
+      },
+      {
+        "description": "Generates 1 Order Energy and heals all allies for 430% of ATK. Also increases all allies\u0027 ATK by 15% for 10s."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Seigaiha",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "charging",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 270% of ATK to all enemies and increases their Magic DMG taken by 30% for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 315% of ATK to all enemies and increases their Magic DMG taken by 30% for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 360% of ATK to all enemies and increases their Magic DMG taken by 30% for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 405% of ATK to all enemies and increases their Magic DMG taken by 30% for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 450% of ATK to all enemies and increases their Magic DMG taken by 30% for 10s."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Kalavin",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases all allies\u0027 damage dealt by 10% for 5s. Can stack up to 20%."
+      },
+      {
+        "description": "Increases all allies\u0027 damage dealt by 20% for 5s. Can stack up to 40%."
+      }
+    ]
+  }
+}

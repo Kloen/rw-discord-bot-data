@@ -1,0 +1,83 @@
+{
+  "name": "Mineer",
+  "rarity": "UR",
+  "element": "Mercury",
+  "vocation": "Mage",
+  "ascension4": false,
+  "nickname": "Blessing of the Night",
+  "va": {
+    "jpn": "Nao Tōyama"
+  },
+  "artist": "Alov",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "?",
+    "Height": "？",
+    "Weight": "？",
+    "Hobby": "?"
+  },
+  "skill1": {
+    "name": "Overflowing Magic",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "Single Enemy",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Consumes all Order Energy to attack a single target repeatedly (based on the energy cost). The first attack deals Magic DMG equal to 90% of Mineer\u0027s ATK and each subsequent attack deals 7% more damage."
+      },
+      {
+        "description": "Consumes all Order Energy to attack a single target repeatedly (based on the energy cost). The first attack deals Magic DMG equal to 105% of Mineer\u0027s ATK and each subsequent attack deals 7% more damage."
+      },
+      {
+        "description": "Consumes all Order Energy to attack a single target repeatedly (based on the energy cost). The first attack deals Magic DMG equal to 120% of Mineer\u0027s ATK and each subsequent attack deals 7% more damage."
+      },
+      {
+        "description": "Consumes all Order Energy to attack a single target repeatedly (based on the energy cost). The first attack deals Magic DMG equal to 135% of Mineer\u0027s ATK and each subsequent attack deals 7% more damage."
+      },
+      {
+        "description": "Consumes all Order Energy to attack a single target repeatedly (based on the energy cost). The first attack deals Magic DMG equal to 150% of Mineer\u0027s ATK and each subsequent attack deals 7% more damage."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Moonlight",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "Single Enemy",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 180% of ATK to a single target and applies a Magic Spread effect to the target for 5 seconds. Magic Spread: When attacked by Mineer, the target takes extra Magic DMG equal to 60% of Mineer\u0027s ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 210% of ATK to a single target and applies a Magic Spread effect to the target for 5 seconds. Magic Spread: When attacked by Mineer, the target takes extra Magic DMG equal to 70% of Mineer\u0027s ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 240% of ATK to a single target and applies a Magic Spread effect to the target for 5 seconds. Magic Spread: When attacked by Mineer, the target takes extra Magic DMG equal to 80% of Mineer\u0027s ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 270% of ATK to a single target and applies a Magic Spread effect to the target for 5 seconds. Magic Spread: When attacked by Mineer, the target takes extra Magic DMG equal to 90% of Mineer\u0027s ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 300% of ATK to a single target and applies a Magic Spread effect to the target for 5 seconds. Magic Spread: When attacked by Mineer, the target takes extra Magic DMG equal to 100% of Mineer\u0027s ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Waxing Moon",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "When dealing damage, there is 8% chance to generate 1 Order Energy and increase damage dealt by 20% for 5s."
+      },
+      {
+        "description": "When dealing damage, there is a 15% chance to generate 1 Order Energy and increase damage dealt by 20% for 5s."
+      }
+    ]
+  }
+}

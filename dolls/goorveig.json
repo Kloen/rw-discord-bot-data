@@ -1,0 +1,83 @@
+{
+  "name": "Goorveig",
+  "rarity": "UR",
+  "element": "Mercury",
+  "vocation": "Compeller",
+  "ascension4": false,
+  "nickname": "Sacrifice to the Abyss",
+  "va": {
+    "jpn": "Sumire Uesaka"
+  },
+  "artist": "山椒魚",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "?",
+    "Height": "163cm",
+    "Weight": "？",
+    "Hobby": "Taboo"
+  },
+  "skill1": {
+    "name": "Ritual",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Generates 2 Chaos Energy, heals all allies for 144% of Goorveig\u0027s ATK, and deals Magic DMG equal to 180% of Goorveig\u0027s ATK to all enemies."
+      },
+      {
+        "description": "Generates 2 Chaos Energy, heals all allies for 168% of Goorveig\u0027s ATK, and deals Magic DMG equal to 210% of Goorveig\u0027s ATK to all enemies."
+      },
+      {
+        "description": "Generates 2 Chaos Energy, heals all allies for 192% of Goorveig\u0027s ATK, and deals Magic DMG equal to 240% of Goorveig\u0027s ATK to all enemies."
+      },
+      {
+        "description": "Generates 2 Chaos Energy, heals all allies for 216% of Goorveig\u0027s ATK, and deals Magic DMG equal to 270% of Goorveig\u0027s ATK to all enemies."
+      },
+      {
+        "description": "Generates 2 Chaos Energy, heals all allies for 240% of Goorveig\u0027s ATK, and deals Magic DMG equal to 300% of Goorveig\u0027s ATK to all enemies."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Aura of the Abyss",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "Self",
+    "type": "Transform",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Transforms into a Creature of the Abyss, dealing Magic DMG equal to 120% of ATK to all enemies and increasing their Magic DMG taken by 24% for 10s (Creature of the Abyss inherits 130% of Goorveig\u0027s max Health and ATK, and heals all allies for 100% of Goorveig\u0027s ATK when casting Energy Sword)."
+      },
+      {
+        "description": "Transforms into a Creature of the Abyss, dealing Magic DMG equal to 140% of ATK to all enemies and increasing their Magic DMG taken by 28% for 10s (Creature of the Abyss inherits 135% of Goorveig\u0027s max Health and ATK, and heals all allies for 100% of Goorveig\u0027s ATK when casting Energy Sword)."
+      },
+      {
+        "description": "Transforms into a Creature of the Abyss, dealing Magic DMG equal to 160% of ATK to all enemies and increasing their Magic DMG taken by 32% for 10s (Creature of the Abyss inherits 140% of Goorveig\u0027s max Health and ATK, and heals all allies for 100% of Goorveig\u0027s ATK when casting Energy Sword)."
+      },
+      {
+        "description": "Transforms into a Creature of the Abyss, dealing Magic DMG equal to 180% of ATK to all enemies and increasing their Magic DMG taken by 36% for 10s (Creature of the Abyss inherits 145% of Goorveig\u0027s max Health and ATK, and heals all allies for 100% of Goorveig\u0027s ATK when casting Energy Sword)."
+      },
+      {
+        "description": "Transforms into a Creature of the Abyss, dealing Magic DMG equal to 200% of ATK to all enemies and increasing their Magic DMG taken by 40% for 10s (Creature of the Abyss inherits 150% of Goorveig\u0027s max Health and ATK, and heals all allies for 100% of Goorveig\u0027s ATK when casting Energy Sword)."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Call of the Abyss",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases the max Health and ATK of Creature of the Abyss by 15% each."
+      },
+      {
+        "description": "Increases the max Health and ATK of Creature of the Abyss by 30% each."
+      }
+    ]
+  }
+}

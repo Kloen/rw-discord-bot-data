@@ -1,0 +1,84 @@
+{
+  "name": "Yui",
+  "rarity": "SSR",
+  "element": "Saltstone",
+  "vocation": "Destroyer",
+  "artistAscension4": "Nekojira",
+  "ascension4": true,
+  "nickname": "Demonsbane Spear",
+  "va": {
+    "jpn": "Manami Numakura"
+  },
+  "artist": "Nekojira",
+  "profile": {
+    "Gender": "Female",
+    "Age": "14",
+    "Birthday": "Jun. 2",
+    "Height": "156cm",
+    "Weight": "？",
+    "Hobby": "Cooking/Cute clothes/Hot spring bath"
+  },
+  "skill1": {
+    "name": "Demonsbane Spear",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 300% of ATK to a single target and dispels all of their buffs."
+      },
+      {
+        "description": "Deals Physical DMG equal to 350% of ATK to a single target and dispels all of their buffs."
+      },
+      {
+        "description": "Deals Physical DMG equal to 400% of ATK to a single target and dispels all of their buffs."
+      },
+      {
+        "description": "Deals Physical DMG equal to 450% of ATK to a single target and dispels all of their buffs."
+      },
+      {
+        "description": "Deals Physical DMG equal to 500% of ATK to a single target and dispels all of their buffs."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Dance of Legendary Beast",
+    "chaosCost": 5,
+    "orderCost": 0,
+    "range": "Self",
+    "type": "Transform",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Reduces damage taken by 18% and increases Demonsbane Spear damage by 50%. Yui also enters Soulbreaker status. Soulbreaker: Normal Attacks turn into consecutive thrusts, dealing damage equal to 195% of Yui\u0027s ATK."
+      },
+      {
+        "description": "Reduces damage taken by 21% and increases Demonsbane Spear damage by 50%. Yui also enters Soulbreaker status. Soulbreaker: Normal Attacks turn into consecutive thrusts, dealing damage equal to 205% of Yui\u0027s ATK."
+      },
+      {
+        "description": "Reduces damage taken by 24% and increases Demonsbane Spear damage by 50%. Yui also enters Soulbreaker status. Soulbreaker: Normal Attacks turn into consecutive thrusts, dealing damage equal to 215% of Yui\u0027s ATK."
+      },
+      {
+        "description": "Reduces damage taken by 27% and increases Demonsbane Spear damage by 50%. Yui also enters Soulbreaker status. Soulbreaker: Normal Attacks turn into consecutive thrusts, dealing damage equal to 225% of Yui\u0027s ATK."
+      },
+      {
+        "description": "Reduces damage taken by 30% and increases Demonsbane Spear damage by 50%. Yui also enters Soulbreaker status. Soulbreaker: Normal Attacks turn into consecutive thrusts, dealing damage equal to 235% of Yui\u0027s ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Spear Princess",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Reduces Magic DMG taken by 10%. Also ignores the enemy\u0027s Physical DEF equal to 20% of Yui\u0027s ATK for 10s after using Demonsbane Spear."
+      },
+      {
+        "description": "Reduces Magic DMG taken by 20%. Also ignores the enemy\u0027s Physical DEF equal to 40% of Yui\u0027s ATK for 10s after using Demonsbane Spear."
+      }
+    ]
+  }
+}

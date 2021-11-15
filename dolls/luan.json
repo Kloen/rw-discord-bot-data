@@ -1,0 +1,83 @@
+{
+  "name": "Luan",
+  "rarity": "SSR",
+  "element": "Mercury",
+  "vocation": "Guardian",
+  "ascension4": false,
+  "nickname": "Vermilion Phoenix",
+  "va": {
+    "jpn": "Anna Yamaki"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "22",
+    "Birthday": "Dec. 8",
+    "Height": "168cm",
+    "Weight": "？",
+    "Hobby": "Gorgeous dresses/ Vegetables/ Sunshine"
+  },
+  "skill1": {
+    "name": "Vermilion Feather",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Allies",
+    "type": "Support",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "For the next 10 seconds, all damage dealt to allies are redirected to Luan, who also gains a Blessing. Blessing: Reduces damage taken by 20% and restores 6% of max Health per second."
+      },
+      {
+        "description": "For the next 10 seconds, all damage dealt to allies are redirected to Luan, who also gains a Blessing. Blessing: Reduces damage taken by 20% and restores 7% of max Health per second."
+      },
+      {
+        "description": "For the next 10 seconds, all damage dealt to allies are redirected to Luan, who also gains a Blessing. Blessing: Reduces damage taken by 20% and restores 8% of max Health per second."
+      },
+      {
+        "description": "For the next 10 seconds, all damage dealt to allies are redirected to Luan, who also gains a Blessing. Blessing: Reduces damage taken by 20% and restores 9% of max Health per second."
+      },
+      {
+        "description": "For the next 10 seconds, all damage dealt to allies are redirected to Luan, who also gains a Blessing. Blessing: Reduces damage taken by 20% and restores 10% of max Health per second."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Flaming Phoenix",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 270% of ATK to all enemies and dispels their buffs. Also applies a stack of Soul Burn to the targets for 8s. Soul Burn: Reduces Magic DEF by 100. Can stack up to 5 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 315% of ATK to all enemies and dispels their buffs. Also applies a stack of Soul Burn to the targets for 8s. Soul Burn: Reduces Magic DEF by 100. Can stack up to 5 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 360% of ATK to all enemies and dispels their buffs. Also applies a stack of Soul Burn to the targets for 8s. Soul Burn: Reduces Magic DEF by 100. Can stack up to 5 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 405% of ATK to all enemies and dispels their buffs. Also applies a stack of Soul Burn to the targets for 8s. Soul Burn: Reduces Magic DEF by 100. Can stack up to 5 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 450% of ATK to all enemies and dispels their buffs. Also applies a stack of Soul Burn to the targets for 8s. Soul Burn: Reduces Magic DEF by 100. Can stack up to 5 times."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Rebirth",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Revives automatically after taking lethal damage. Increases ATK, Physical DEF and Magic DEF by 15% and gains Rebirth effect for 10s. Can only trigger once per combat. Rebirth: Restores 5% of max Health per second."
+      },
+      {
+        "description": "Revives automatically after death. Increases ATK, Physical DEF and Magic DEF by 30% and restores 10% of max Health per second for 10s. Can only trigger once per combat."
+      }
+    ]
+  }
+}

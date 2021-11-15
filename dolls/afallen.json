@@ -1,0 +1,84 @@
+{
+  "name": "Afallen",
+  "rarity": "UR",
+  "element": "Mercury",
+  "vocation": "Guardian",
+  "artistAscension4": "Kurot",
+  "ascension4": true,
+  "nickname": "Defender of Holiness",
+  "va": {
+    "jpn": "Misato Fukuen"
+  },
+  "artist": "Kurot",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "Sep. 12",
+    "Height": "135cm",
+    "Weight": "？",
+    "Hobby": "Slacking/ Sleeping /Playing"
+  },
+  "skill1": {
+    "name": "Barrier",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Allies",
+    "type": "Support",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Generates a Shield that absorbs damage equal to 24% of max Health and redirects all damage dealt to allies to herself within the next 10 seconds instead, during which Physical DEF and Magic DEF are increased by 54%, and for the first 2 seconds, immune to all damages."
+      },
+      {
+        "description": "Generates a Shield that absorbs damage equal to 28% of max Health and redirects all damage dealt to allies to herself within the next 10 seconds instead, during which Physical DEF and Magic DEF are increased by 63%, and for the first 2 seconds, immune to all damages."
+      },
+      {
+        "description": "Generates a Shield that absorbs damage equal to 32% of max Health and redirects all damage dealt to allies to herself within the next 10 seconds instead, during which Physical DEF and Magic DEF are increased by 72%, and for the first 2 seconds, immune to all damages."
+      },
+      {
+        "description": "Generates a Shield that absorbs damage equal to 36% of max Health and redirects all damage dealt to allies to herself within the next 10 seconds instead, during which Physical DEF and Magic DEF are increased by 81%, and for the first 2 seconds, immune to all damages."
+      },
+      {
+        "description": "Generates a Shield that absorbs damage equal to 40% of max Health and redirects all damage dealt to allies to herself within the next 10 seconds instead, during which Physical DEF and Magic DEF are increased by 90%, and for the first 2 seconds, immune to all damages."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Holy Radiance",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 300% of ATK to all enemies, dispels their buffs, and reduces their Magic DEF by 40% of Afallen\u0027s Magic DEF for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 350% of ATK to all enemies, dispels their buffs, and reduces their Magic DEF by 40% of Afallen\u0027s Magic DEF for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 400% of ATK to all enemies, dispels their buffs, and reduces their Magic DEF by 40% of Afallen\u0027s Magic DEF for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 450% of ATK to all enemies, dispels their buffs, and reduces their Magic DEF by 40% of Afallen\u0027s Magic DEF for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 500% of ATK to all enemies, dispels their buffs, and reduces their Magic DEF by 40% of Afallen\u0027s Magic DEF for 10s."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Light of the Sanctuary",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Auto casts Holy Radiance once after taking damage 15 times."
+      },
+      {
+        "description": "Auto casts Holy Radiance once after taking damage 8 times."
+      }
+    ]
+  }
+}

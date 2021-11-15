@@ -1,0 +1,83 @@
+{
+  "name": "Flora",
+  "rarity": "UR",
+  "element": "Saltstone",
+  "vocation": "Healer",
+  "ascension4": false,
+  "nickname": "Melody of the Lake",
+  "va": {
+    "jpn": "Yui Ogura"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "15",
+    "Birthday": "Dec. 23",
+    "Height": "165cm",
+    "Weight": "？",
+    "Hobby": "Playing the harp/ Singing"
+  },
+  "skill1": {
+    "name": "Rhythm of the Lake",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Increases all allies\u0027 ATK, DEF, and Magic DEF by 24% of Flora\u0027s corresponding attributes. For 3 seconds, heals the Doll with the lowest Health by 30% of Flora\u0027s ATK every 0.5 seconds."
+      },
+      {
+        "description": "Increases all allies\u0027 ATK, DEF, and Magic DEF by 28% of Flora\u0027s corresponding attributes. For 3 seconds, heals the Doll with the lowest Health by 35% of Flora\u0027s ATK every 0.5 seconds."
+      },
+      {
+        "description": "Increases all allies\u0027 ATK, DEF, and Magic DEF by 32% of Flora\u0027s corresponding attributes. For 3 seconds, heals the Doll with the lowest Health by 40% of Flora\u0027s ATK every 0.5 seconds."
+      },
+      {
+        "description": "Increases all allies\u0027 ATK, DEF, and Magic DEF by 36% of Flora\u0027s corresponding attributes. For 3 seconds, heals the Doll with the lowest Health by 45% of Flora\u0027s ATK every 0.5 seconds."
+      },
+      {
+        "description": "Increases all allies\u0027 ATK, DEF, and Magic DEF by 40% of Flora\u0027s corresponding attributes. For 3 seconds, heals the Doll with the lowest Health by 50% of Flora\u0027s ATK every 0.5 seconds."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Rhythm Rewind",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Heals all allies for 240% of Flora\u0027s ATK and places a Blessing on them. If a blessed Doll takes lethal damage, the Blessing is replaced with the Retrograde effect. Blessing: Increases damage dealt by 40% for 5s. The effect cannot be regained within 15s. Retrograde: Heals the ally for 240% of Flora\u0027s ATK, and increases damage dealt by 80% for 10s."
+      },
+      {
+        "description": "Heals all allies for 280% of Flora\u0027s ATK and places a Blessing on them. If a blessed Doll takes lethal damage, the Blessing is replaced with the Retrograde effect. Blessing: Increases damage dealt by 40% for 5s. The effect cannot be regained within 15s. Retrograde: Heals the ally for 280% of Flora\u0027s ATK, and increases damage dealt by 80% for 10s."
+      },
+      {
+        "description": "Heals all allies for 320% of Flora\u0027s ATK and places a Blessing on them. If a blessed Doll takes lethal damage, the Blessing is replaced with the Retrograde effect. Blessing: Increases damage dealt by 40% for 5s. The effect cannot be regained within 15s. Retrograde: Heals the ally for 320% of Flora\u0027s ATK, and increases damage dealt by 80% for 10s."
+      },
+      {
+        "description": "Heals all allies for 360% of Flora\u0027s ATK and places a Blessing on them. If a blessed Doll takes lethal damage, the Blessing is replaced with the Retrograde effect. Blessing: Increases damage dealt by 40% for 5s. The effect cannot be regained within 15s. Retrograde: Heals the ally for 360% of Flora\u0027s ATK, and increases damage dealt by 80% for 10s."
+      },
+      {
+        "description": "Heals all allies for 400% of Flora\u0027s ATK and places a Blessing on them. If a blessed Doll takes lethal damage, the Blessing is replaced with the Retrograde effect. Blessing: Increases damage dealt by 40% for 5s. The effect cannot be regained within 15s. Retrograde: Heals the ally for 400% of Flora\u0027s ATK, and increases damage dealt by 80% for 10s."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Cheerful Chord",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Reduces all allies\u0027 damage taken by 15% for 5s."
+      },
+      {
+        "description": "Reduces all allies\u0027 damage taken by 30% for 5s."
+      }
+    ]
+  }
+}

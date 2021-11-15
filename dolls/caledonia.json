@@ -1,0 +1,84 @@
+{
+  "name": "Caledonia",
+  "rarity": "UR",
+  "element": "Brimstone",
+  "vocation": "Guardian",
+  "artistAscension4": "トモセシュンサク",
+  "ascension4": true,
+  "nickname": "Cloistered Princess",
+  "va": {
+    "jpn": "M·A·O"
+  },
+  "artist": "トモセシュンサク",
+  "profile": {
+    "Gender": "Female",
+    "Age": "18",
+    "Birthday": "Oct. 27",
+    "Height": "162cm",
+    "Weight": "？",
+    "Hobby": "Communicating with animals"
+  },
+  "skill1": {
+    "name": "Plume of Guard",
+    "chaosCost": 0,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "charging",
+    "variations": [
+      {
+        "description": "Heals all allies for 12% of Caledonia\u0027s max Health and reduces their damage taken by 30% for 5 seconds."
+      },
+      {
+        "description": "Heals all allies for 14% of Caledonia\u0027s max Health and reduces their damage taken by 35% for 5 seconds."
+      },
+      {
+        "description": "Heals all allies for 16% of Caledonia\u0027s max Health and reduces their damage taken by 40% for 5 seconds."
+      },
+      {
+        "description": "Heals all allies for 18% of Caledonia\u0027s max Health and reduces their damage taken by 45% for 5 seconds."
+      },
+      {
+        "description": "Heals all allies for 20% of Caledonia\u0027s max Health and reduces their damage taken by 50% for 5 seconds."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Overwhelming",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Charges forward and knocks off all enemies in the path, then returns to the original position, immune to all damage and debuffs along the way. Each enemy is knocked off for 0.5s and takes Physical DMG equal to 150% of ATK. Within 10 seconds, the enemies\u0027 Physical DEF reduces by 5% of Caledonia\u0027s Physical DEF every time they take damage. Can stack up to 100%."
+      },
+      {
+        "description": "Charges forward and knocks off all enemies in the path, then returns to the original position, immune to all damage and debuffs along the way. Each enemy is knocked off for 0.5s and takes Physical DMG equal to 175% of ATK. Within 10 seconds, the enemies\u0027 Physical DEF reduces by 5% of Caledonia\u0027s Physical DEF every time they take damage. Can stack up to 100%."
+      },
+      {
+        "description": "Charges forward and knocks off all enemies in the path, then returns to the original position, immune to all damage and debuffs along the way. Each enemy is knocked off for 0.5s and takes Physical DMG equal to 200% of ATK. Within 10 seconds, the enemies\u0027 Physical DEF reduces by 5% of Caledonia\u0027s Physical DEF every time they take damage. Can stack up to 100%."
+      },
+      {
+        "description": "Charges forward and knocks off all enemies in the path, then returns to the original position, immune to all damage and debuffs along the way. Each enemy is knocked off for 0.5s and takes Physical DMG equal to 225% of ATK. Within 10 seconds, the enemies\u0027 Physical DEF reduces by 5% of Caledonia\u0027s Physical DEF every time they take damage. Can stack up to 100%."
+      },
+      {
+        "description": "Charges forward and knocks off all enemies in the path, then returns to the original position, immune to all damage and debuffs along the way. Each enemy is knocked off for 0.5s and takes Physical DMG equal to 250% of ATK. Within 10 seconds, the enemies\u0027 Physical DEF reduces by 5% of Caledonia\u0027s Physical DEF every time they take damage. Can stack up to 100%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Sacred Beast: Strengthen",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Caledonia is blessed by the Sacred Beast, reducing her damage taken by 3% of her max Health. For every 30% Health lost, removes all debuffs on her."
+      },
+      {
+        "description": "Caledonia is blessed by the Sacred Beast, reducing her damage taken by 6% of her max Health. For every 30% Health lost, removes all debuffs on her."
+      }
+    ]
+  }
+}

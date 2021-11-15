@@ -1,0 +1,83 @@
+{
+  "name": "Hilda",
+  "rarity": "SR",
+  "element": "Saltstone",
+  "vocation": "Destroyer",
+  "ascension4": false,
+  "nickname": "The Royal Sword",
+  "va": {
+    "jpn": "Unavailable"
+  },
+  "artist": "irvineQ",
+  "profile": {
+    "Gender": "Female",
+    "Age": "16",
+    "Birthday": "?",
+    "Height": "180cm",
+    "Weight": "？",
+    "Hobby": "Swordplay Practice"
+  },
+  "skill1": {
+    "name": "Wind Storm",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 240% of ATK to all enemies"
+      },
+      {
+        "description": "Deals Physical DMG equal to 280% of ATK to all enemies"
+      },
+      {
+        "description": "Deals Physical DMG equal to 320% of ATK to all enemies"
+      },
+      {
+        "description": "Deals Physical DMG equal to 360% of ATK to all enemies"
+      },
+      {
+        "description": "Deals Physical DMG equal to 400% of ATK to all enemies"
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Lion\u0027s Agility",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 144% of ATK to all enemies and increases the damage of the next skill by 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 168% of ATK to all enemies and increases the damage of the next skill by 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 192% of ATK to all enemies and increases the damage of the next skill by 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 216% of ATK to all enemies and increases the damage of the next skill by 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 240% of ATK to all enemies and increases the damage of the next skill by 100%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Royal Glory",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "When used, all enemies take 7.5% more damage for 5s."
+      },
+      {
+        "description": "When used, all enemies take 15% more damage for 5s."
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Inn \u0026 Lou",
+  "rarity": "SSR",
+  "element": "Brimstone",
+  "vocation": "Assassin",
+  "artistAscension4": "Namie",
+  "ascension4": true,
+  "nickname": "Twin Executors",
+  "va": {
+    "jpn": "Akiha Matsui"
+  },
+  "artist": "Namie",
+  "profile": {
+    "Gender": "Female",
+    "Age": "12",
+    "Birthday": "May. 29",
+    "Height": "135cm",
+    "Weight": "？",
+    "Hobby": "?"
+  },
+  "skill1": {
+    "name": "Thorn of Binding",
+    "chaosCost": 0,
+    "orderCost": 1,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Attacks the enemy in the back row twice, each time dealing Physical DMG equal to 48% of ATK. If Inn is the executor, deals 20% more Physical DMG; if Lou is the executor, reduces the target\u0027s Crit DMG Resistance by 5% for 10s. Can stack up to 50%."
+      },
+      {
+        "description": "Attacks the enemy in the back row twice, each time dealing Physical DMG equal to 56% of ATK. If Inn is the executor, deals 20% more Physical DMG; if Lou is the executor, reduces the target\u0027s Crit DMG Resistance by 5% for 10s. Can stack up to 50%."
+      },
+      {
+        "description": "Attacks the enemy in the back row twice, each time dealing Physical DMG equal to 64% of ATK. If Inn is the executor, deals 20% more Physical DMG; if Lou is the executor, reduces the target\u0027s Crit DMG Resistance by 5% for 10s. Can stack up to 50%."
+      },
+      {
+        "description": "Attacks the enemy in the back row twice, each time dealing Physical DMG equal to 72% of ATK. If Inn is the executor, deals 20% more Physical DMG; if Lou is the executor, reduces the target\u0027s Crit DMG Resistance by 5% for 10s. Can stack up to 50%."
+      },
+      {
+        "description": "Attacks the enemy in the back row twice, each time dealing Physical DMG equal to 80% of ATK. If Inn is the executor, deals 20% more Physical DMG; if Lou is the executor, reduces the target\u0027s Crit DMG Resistance by 5% for 10s. Can stack up to 50%."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Pain",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Attacks the enemy in the back row 6 times, each time dealing Physical DMG equal to 60% of ATK. Also places Pain on the target for 6s. Pain: Deals Physical DMG equal to 30% of Inn \u0026amp; Lou\u0027s ATK per second."
+      },
+      {
+        "description": "Attacks the enemy in the back row 6 times, each time dealing Physical DMG equal to 70% of ATK. Also places Pain on the target for 6s. Pain: Deals Physical DMG equal to 35% of Inn \u0026amp; Lou\u0027s ATK per second."
+      },
+      {
+        "description": "Attacks the enemy in the back row 6 times, each time dealing Physical DMG equal to 80% of ATK. Also places Pain on the target for 6s. Pain: Deals Physical DMG equal to 40% of Inn \u0026amp; Lou\u0027s ATK per second."
+      },
+      {
+        "description": "Attacks the enemy in the back row 6 times, each time dealing Physical DMG equal to 90% of ATK. Also places Pain on the target for 6s. Pain: Deals Physical DMG equal to 45% of Inn \u0026amp; Lou\u0027s ATK per second."
+      },
+      {
+        "description": "Attacks the enemy in the back row 6 times, each time dealing Physical DMG equal to 100% of ATK. Also places Pain on the target for 6s. Pain: Deals Physical DMG equal to 50% of Inn \u0026amp; Lou\u0027s ATK per second."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Precise Execution",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases damage dealt by 5% every 20 seconds. Can stack up to 25%."
+      },
+      {
+        "description": "Increases damage dealt by 10% every 20 seconds. Can stack up to 50%."
+      }
+    ]
+  }
+}

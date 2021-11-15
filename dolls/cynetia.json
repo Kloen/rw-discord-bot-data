@@ -1,0 +1,84 @@
+{
+  "name": "Cynetia",
+  "rarity": "SSR",
+  "element": "Saltstone",
+  "vocation": "Healer",
+  "artistAscension4": "日向あずり",
+  "ascension4": true,
+  "nickname": "Warped Hymn",
+  "va": {
+    "jpn": "Kana Yūki"
+  },
+  "artist": "日向あずり",
+  "profile": {
+    "Gender": "Female",
+    "Age": "17",
+    "Birthday": "Jun. 30",
+    "Height": "161cm",
+    "Weight": "？",
+    "Hobby": "Pain/ Caring"
+  },
+  "skill1": {
+    "name": "Emergence Heal",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "Single Ally",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Heals the Doll with the lowest Health for 180% of Cynetia\u0027s ATK. Healing is increased by 50% when the Doll\u0027s Health is below 50%."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health for 210% of Cynetia\u0027s ATK. Healing is increased by 50% when the Doll\u0027s Health is below 50%."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health for 240% of Cynetia\u0027s ATK. Healing is increased by 50% when the Doll\u0027s Health is below 50%."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health for 270% of Cynetia\u0027s ATK. Healing is increased by 50% when the Doll\u0027s Health is below 50%."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health for 300% of Cynetia\u0027s ATK. Healing is increased by 50% when the Doll\u0027s Health is below 50%."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Hymn to Bandage",
+    "chaosCost": 0,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Enhance",
+    "skillType": "charging",
+    "variations": [
+      {
+        "description": "Heals all allies with bandages for 10s, restoring Health equal to 30% of Cynetia\u0027s ATK per second. Also increases ATK of all allies by 24% of her ATK."
+      },
+      {
+        "description": "Heals all allies with bandages for 10s, restoring Health equal to 35% of Cynetia\u0027s ATK per second. Also increases ATK of all allies by 28% of her ATK."
+      },
+      {
+        "description": "Heals all allies with bandages for 10s, restoring Health equal to 40% of Cynetia\u0027s ATK per second. Also increases ATK of all allies by 32% of her ATK."
+      },
+      {
+        "description": "Heals all allies with bandages for 10s, restoring Health equal to 45% of Cynetia\u0027s ATK per second. Also increases ATK of all allies by 36% of her ATK."
+      },
+      {
+        "description": "Heals all allies with bandages for 10s, restoring Health equal to 50% of Cynetia\u0027s ATK per second. Also increases ATK of all allies by 40% of her ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Joy of Agony",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "When Health is below 50%, removes debuffs and restores 25% of max Health. Can only trigger once per combat."
+      },
+      {
+        "description": "When Health is below 50%, removes debuffs and restores 50% of max Health. Can only trigger once per combat."
+      }
+    ]
+  }
+}

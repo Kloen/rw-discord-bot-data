@@ -1,0 +1,83 @@
+{
+  "name": "Nocturna",
+  "rarity": "SSR",
+  "element": "Brimstone",
+  "vocation": "Assassin",
+  "ascension4": false,
+  "nickname": "Scarlet Moon",
+  "va": {
+    "jpn": "Kaoru Sakura"
+  },
+  "artist": "AIKO",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "?",
+    "Height": "145cm",
+    "Weight": "？",
+    "Hobby": "Noble things"
+  },
+  "skill1": {
+    "name": "Scarlet Storm",
+    "chaosCost": 0,
+    "orderCost": 1,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Attacks all enemies 3 times, each time dealing Physical DMG equal to 36% of ATK."
+      },
+      {
+        "description": "Attacks all enemies 3 times, each time dealing Physical DMG equal to 42% of ATK."
+      },
+      {
+        "description": "Attacks all enemies 3 times, each time dealing Physical DMG equal to 48% of ATK."
+      },
+      {
+        "description": "Attacks all enemies 3 times, each time dealing Physical DMG equal to 54% of ATK."
+      },
+      {
+        "description": "Attacks all enemies 3 times, each time dealing Physical DMG equal to 60% of ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Aura of Night",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Enhance",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "For the next 10 seconds, when dealing Physical DMG, inflicts extra damage equal to 30% of Nocturna\u0027s ATK, and heals herself for 12% of the DMG dealt."
+      },
+      {
+        "description": "For the next 10 seconds, when dealing Physical DMG, inflicts extra damage equal to 35% of Nocturna\u0027s ATK, and heals herself for 14% of the DMG dealt."
+      },
+      {
+        "description": "For the next 10 seconds, when dealing Physical DMG, inflicts extra damage equal to 40% of Nocturna\u0027s ATK, and heals herself for 16% of the DMG dealt."
+      },
+      {
+        "description": "For the next 10 seconds, when dealing Physical DMG, inflicts extra damage equal to 45% of Nocturna\u0027s ATK, and heals herself for 18% of the DMG dealt."
+      },
+      {
+        "description": "For the next 10 seconds, when dealing Physical DMG, inflicts extra damage equal to 50% of Nocturna\u0027s ATK, and heals herself for 20% of the DMG dealt."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Eternal Night",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Deals 1% more damage with each attack. Can stack up to 20%."
+      },
+      {
+        "description": "Deals 2% more damage with each attack. Can stack up to 40%."
+      }
+    ]
+  }
+}

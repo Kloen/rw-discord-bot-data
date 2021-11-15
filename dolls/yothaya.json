@@ -1,0 +1,83 @@
+{
+  "name": "Yothaya",
+  "rarity": "SR",
+  "element": "Saltstone",
+  "vocation": "Healer",
+  "ascension4": false,
+  "nickname": "Petite Healer",
+  "va": {
+    "jpn": "Rie Hikisaka"
+  },
+  "artist": "薛定谔的食铁兽",
+  "profile": {
+    "Gender": "Female",
+    "Age": "10",
+    "Birthday": "Jan. 9",
+    "Height": "136cm",
+    "Weight": "？",
+    "Hobby": "Flowers/ Cute clothes/ Sweets"
+  },
+  "skill1": {
+    "name": "Calming",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Heals all allies for 120% of Yothaya\u0027s ATK and reduces damage taken by all allies by 30% of Yothaya\u0027s ATK for 5s."
+      },
+      {
+        "description": "Heals all allies for 140% of Yothaya\u0027s ATK and reduces damage taken by all allies by 35% of Yothaya\u0027s ATK for 5s."
+      },
+      {
+        "description": "Heals all allies for 160% of Yothaya\u0027s ATK and reduces damage taken by all allies by 40% of Yothaya\u0027s ATK for 5s."
+      },
+      {
+        "description": "Heals all allies for 180% of Yothaya\u0027s ATK and reduces damage taken by all allies by 45% of Yothaya\u0027s ATK for 5s."
+      },
+      {
+        "description": "Heals all allies for 200% of Yothaya\u0027s ATK and reduces damage taken by all allies by 50% of Yothaya\u0027s ATK for 5s."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Point Heal",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "Single Ally",
+    "type": "Enhance",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Heals the front ally for 300% of Yothaya\u0027s ATK and increases the ally\u0027s ATK by 30% of Yothaya\u0027s ATK for 10s."
+      },
+      {
+        "description": "Heals the front ally for 350% of Yothaya\u0027s ATK and increases the ally\u0027s ATK by 35% of Yothaya\u0027s ATK for 10s."
+      },
+      {
+        "description": "Heals the front ally for 400% of Yothaya\u0027s ATK and increases the ally\u0027s ATK by 40% of Yothaya\u0027s ATK for 10s."
+      },
+      {
+        "description": "Heals the front ally for 450% of Yothaya\u0027s ATK and increases the ally\u0027s ATK by 45% of Yothaya\u0027s ATK for 10s."
+      },
+      {
+        "description": "Heals the front ally for 500% of Yothaya\u0027s ATK and increases the ally\u0027s ATK by 50% of Yothaya\u0027s ATK for 10s."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Heart of Healer",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Heals the Doll with the lowest Health for 50% of Yothaya\u0027s ATK every 5 seconds."
+      },
+      {
+        "description": "Heals the Doll with the lowest Health for 100% of Yothaya\u0027s ATK every 5 seconds."
+      }
+    ]
+  }
+}

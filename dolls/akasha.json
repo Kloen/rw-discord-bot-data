@@ -1,0 +1,84 @@
+{
+  "name": "Akasha",
+  "rarity": "UR",
+  "element": "Brimstone",
+  "vocation": "Assassin",
+  "artistAscension4": "夜ノみつき",
+  "ascension4": true,
+  "nickname": "Sword Maiden of Shooting Stars",
+  "va": {
+    "jpn": "Haruka Tomatsu"
+  },
+  "artist": "夜ノみつき",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "?",
+    "Height": "174cm",
+    "Weight": "？",
+    "Hobby": "?"
+  },
+  "skill1": {
+    "name": "Meteor Slash",
+    "chaosCost": 0,
+    "orderCost": 1,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 48% of ATK twice to the enemy in the back row. Increases Crit Chance by 5% and Crit DMG by 10% for 5s. Can stack up to 25% and 50% respectively."
+      },
+      {
+        "description": "Deals Physical DMG equal to 56% of ATK twice to the enemy in the back row. Increases Crit Chance by 5% and Crit DMG by 10% for 5s. Can stack up to 25% and 50% respectively."
+      },
+      {
+        "description": "Deals Physical DMG equal to 64% of ATK twice to the enemy in the back row. Increases Crit Chance by 5% and Crit DMG by 10% for 5s. Can stack up to 25% and 50% respectively."
+      },
+      {
+        "description": "Deals Physical DMG equal to 72% of ATK twice to the enemy in the back row. Increases Crit Chance by 5% and Crit DMG by 10% for 5s. Can stack up to 25% and 50% respectively."
+      },
+      {
+        "description": "Deals Physical DMG equal to 80% of ATK twice to the enemy in the back row. Increases Crit Chance by 5% and Crit DMG by 10% for 5s. Can stack up to 25% and 50% respectively."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Arcane: Lustre Slash",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals damage to the enemy in the back row 6 times. If the enemy is defeated, switches to the enemy in the new back row. The first attack deals Physical DMG equal to 60% of Akasha\u0027s ATK, and each subsequent attack\u0027s damage increases by 10% for every slash executed prior to it."
+      },
+      {
+        "description": "Deals damage to the enemy in the back row 6 times. If the enemy is defeated, switches to the enemy in the new back row. The first attack deals Physical DMG equal to 70% of Akasha\u0027s ATK, and each subsequent attack\u0027s damage increases by 10% for every slash executed prior to it."
+      },
+      {
+        "description": "Deals damage to the enemy in the back row 6 times. If the enemy is defeated, switches to the enemy in the new back row. The first attack deals Physical DMG equal to 80% of Akasha\u0027s ATK, and each subsequent attack\u0027s damage increases by 10% for every slash executed prior to it."
+      },
+      {
+        "description": "Deals damage to the enemy in the back row 6 times. If the enemy is defeated, switches to the enemy in the new back row. The first attack deals Physical DMG equal to 90% of Akasha\u0027s ATK, and each subsequent attack\u0027s damage increases by 10% for every slash executed prior to it."
+      },
+      {
+        "description": "Deals damage to the enemy in the back row 6 times. If the enemy is defeated, switches to the enemy in the new back row. The first attack deals Physical DMG equal to 100% of Akasha\u0027s ATK, and each subsequent attack\u0027s damage increases by 10% for every slash executed prior to it."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Field of Swords",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "When unleashing Meteor Slash, there\u0027s a 10% chance to reduce the energy cost of the next Arcane: Lustre Slash to 1."
+      },
+      {
+        "description": "When unleashing Meteor Slash, there\u0027s a 20% chance to reduce the energy cost of the next Arcane: Lustre Slash to 1."
+      }
+    ]
+  }
+}

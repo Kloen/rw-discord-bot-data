@@ -1,0 +1,83 @@
+{
+  "name": "Elis",
+  "rarity": "SR",
+  "element": "Brimstone",
+  "vocation": "Assassin",
+  "ascension4": false,
+  "nickname": "Queen of the Forest",
+  "va": {
+    "jpn": "Sayaka Kitahara"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "25",
+    "Birthday": "Aug. 20",
+    "Height": "168cm",
+    "Weight": "？",
+    "Hobby": "Hunting"
+  },
+  "skill1": {
+    "name": "Swoop",
+    "chaosCost": 0,
+    "orderCost": 1,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Attacks the enemy in the back row twice, each dealing Physical DMG equal to 48% of ATK. Also increases Crit Chance by 5% for 5s. Can stack up to 25%."
+      },
+      {
+        "description": "Attacks the enemy in the back row twice, each dealing Physical DMG equal to 56% of ATK. Also increases Crit Chance by 5% for 5s. Can stack up to 25%."
+      },
+      {
+        "description": "Attacks the enemy in the back row twice, each dealing Physical DMG equal to 64% of ATK. Also increases Crit Chance by 5% for 5s. Can stack up to 25%."
+      },
+      {
+        "description": "Attacks the enemy in the back row twice, each dealing Physical DMG equal to 72% of ATK. Also increases Crit Chance by 5% for 5s. Can stack up to 25%."
+      },
+      {
+        "description": "Attacks the enemy in the back row twice, each dealing Physical DMG equal to 80% of ATK. Also increases Crit Chance by 5% for 5s. Can stack up to 25%."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Finality",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Attacks the enemy in the back row 6 times, each dealing Physical DMG equal to 60% of Elis\u0027 ATK."
+      },
+      {
+        "description": "Attacks the enemy in the back row 6 times, each dealing Physical DMG equal to 70% of Elis\u0027 ATK."
+      },
+      {
+        "description": "Attacks the enemy in the back row 6 times, each dealing Physical DMG equal to 80% of Elis\u0027 ATK."
+      },
+      {
+        "description": "Attacks the enemy in the back row 6 times, each dealing Physical DMG equal to 90% of Elis\u0027 ATK."
+      },
+      {
+        "description": "Attacks the enemy in the back row 6 times, each dealing Physical DMG equal to 100% of Elis\u0027 ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Hunting Instinct",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases damage dealt by 5% every 30 seconds, up to 25%."
+      },
+      {
+        "description": "Increases damage dealt by 10% every 30 seconds, up to 50%."
+      }
+    ]
+  }
+}

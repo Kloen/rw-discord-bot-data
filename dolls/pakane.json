@@ -1,0 +1,83 @@
+{
+  "name": "Pakane",
+  "rarity": "SR",
+  "element": "Mercury",
+  "vocation": "Mage",
+  "ascension4": false,
+  "nickname": "Frost Witch",
+  "va": {
+    "jpn": "Rio Tsuchiya"
+  },
+  "artist": "戏言咸咸",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "?",
+    "Height": "142cm",
+    "Weight": "？",
+    "Hobby": "?"
+  },
+  "skill1": {
+    "name": "Snowdrift",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Summons a blizzard, dealing Magic DMG equal to 120% of ATK to all enemies and applies a stack of Frostbite for 5s. Can stack up to 5 times."
+      },
+      {
+        "description": "Summons a blizzard, dealing Magic DMG equal to 140% of ATK to all enemies and applies a stack of Frostbite for 5s. Can stack up to 5 times."
+      },
+      {
+        "description": "Summons a blizzard, dealing Magic DMG equal to 160% of ATK to all enemies and applies a stack of Frostbite for 5s. Can stack up to 5 times."
+      },
+      {
+        "description": "Summons a blizzard, dealing Magic DMG equal to 180% of ATK to all enemies and applies a stack of Frostbite for 5s. Can stack up to 5 times."
+      },
+      {
+        "description": "Summons a blizzard, dealing Magic DMG equal to 200% of ATK to all enemies and applies a stack of Frostbite for 5s. Can stack up to 5 times."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Frozen",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 240% of ATK to all enemies and freezes them for 1s. Each stack of Frostbite inflicts extra Magic DMG equal to 30% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 280% of ATK to all enemies and freezes them for 1s. Each stack of Frostbite inflicts extra Magic DMG equal to 35% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 320% of ATK to all enemies and freezes them for 1s. Each stack of Frostbite inflicts extra Magic DMG equal to 40% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 360% of ATK to all enemies and freezes them for 1s. Each stack of Frostbite inflicts extra Magic DMG equal to 45% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 400% of ATK to all enemies and freezes them for 1s. Each stack of Frostbite inflicts extra Magic DMG equal to 50% of ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Frozen Body",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Enemies who attack Pakane have a 10% chance of being frozen for 2s"
+      },
+      {
+        "description": "Enemies who attack Pakane have a 20% chance of being frozen for 2s."
+      }
+    ]
+  }
+}

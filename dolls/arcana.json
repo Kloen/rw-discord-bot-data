@@ -1,0 +1,84 @@
+{
+  "name": "Arcana",
+  "rarity": "SSR",
+  "element": "Mercury",
+  "vocation": "Compeller",
+  "artistAscension4": "PixelNeko",
+  "ascension4": true,
+  "nickname": "Fortune Teller",
+  "va": {
+    "jpn": "Noriko Shibasaki"
+  },
+  "artist": "薛定谔的食铁兽",
+  "profile": {
+    "Gender": "Female",
+    "Age": "30",
+    "Birthday": "Feb. 5",
+    "Height": "169cm",
+    "Weight": "？",
+    "Hobby": "Slightly bitter food/ Divining"
+  },
+  "skill1": {
+    "name": "Divination",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Allies",
+    "type": "Enhance",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Heals all allies for 180% of ATK. 70% chance to increase energy regeneration rate by 40% for 5s. 30% chance to increase energy generation rate by 100% for 5s."
+      },
+      {
+        "description": "Heals all allies for 210% of ATK. 65% chance to increase energy regeneration rate by 40% for 5s. 35% chance to increase energy generation rate by 100% for 5s."
+      },
+      {
+        "description": "Heals all allies for 240% of ATK. 60% chance to increase energy regeneration rate by 40% for 5s. 40% chance to increase energy generation rate by 100% for 5s."
+      },
+      {
+        "description": "Heals all allies for 270% of ATK. 55% chance to increase energy regeneration rate by 40% for 5s. 45% chance to increase energy generation rate by 100% for 5s."
+      },
+      {
+        "description": "Heals all allies for 300% of ATK. 50% chance to increase energy regeneration rate by 40% for 5s. 50% chance to increase energy generation rate by 100% for 5s."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Fatum",
+    "chaosCost": 0,
+    "orderCost": 0,
+    "range": "All Allies",
+    "type": "Enhance",
+    "skillType": "charging",
+    "variations": [
+      {
+        "description": "70% chance to increase Magic DMG of the whole team by 30% for 5s. 30% chance to increase Magic DMG of the whole team by 100% for 5s."
+      },
+      {
+        "description": "65% chance to increase Magic DMG of the whole team by 30% for 5s. 35% chance to increase Magic DMG of the whole team by 100% for 5s."
+      },
+      {
+        "description": "60% chance to increase Magic DMG of the whole team by 30% for 5s. 40% chance to increase Magic DMG of the whole team by 100% for 5s."
+      },
+      {
+        "description": "55% chance to increase Magic DMG of the whole team by 30% for 5s. 45% chance to increase Magic DMG of the whole team by 100% for 5s."
+      },
+      {
+        "description": "50% chance to increase Magic DMG of the whole team by 30% for 5s. 50% chance to increase Magic DMG of the whole team by 100% for 5s."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Foresight",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "When using Divination, 5% more chance to trigger higher energy generation rate."
+      },
+      {
+        "description": "When using Divination, 10% more chance to trigger higher energy generation rate."
+      }
+    ]
+  }
+}

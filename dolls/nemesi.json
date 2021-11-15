@@ -1,0 +1,83 @@
+{
+  "name": "Nemesi",
+  "rarity": "SR",
+  "element": "Brimstone",
+  "vocation": "Assassin",
+  "ascension4": false,
+  "nickname": "Deathbringer",
+  "va": {
+    "jpn": "Sara Matsumoto"
+  },
+  "artist": "戏言咸咸",
+  "profile": {
+    "Gender": "Female",
+    "Age": "14",
+    "Birthday": "Oct. 8",
+    "Height": "151cm",
+    "Weight": "？",
+    "Hobby": "?"
+  },
+  "skill1": {
+    "name": "Shadow Attack",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "Single Enemy",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Teleports to the back of the enemy and deals Physical DMG equal to 210% of ATK to a single target. The attack is repeated on a critical hit, up to 3 times."
+      },
+      {
+        "description": "Teleports to the back of the enemy and deals Physical DMG equal to 245% of ATK to a single target. The attack is repeated on a critical hit, up to 3 times."
+      },
+      {
+        "description": "Teleports to the back of the enemy and deals Physical DMG equal to 280% of ATK to a single target. The attack is repeated on a critical hit, up to 3 times."
+      },
+      {
+        "description": "Teleports to the back of the enemy and deals Physical DMG equal to 315% of ATK to a single target. The attack is repeated on a critical hit, up to 3 times."
+      },
+      {
+        "description": "Teleports to the back of the enemy and deals Physical DMG equal to 350% of ATK to a single target. The attack is repeated on a critical hit, up to 3 times."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Nightblade Marker",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "Single Enemy",
+    "type": "Debuff",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Marks an enemy in the back row for 10 seconds. Increases the unit\u0027s Crit Chance by 24% when attacking the marked enemy."
+      },
+      {
+        "description": "Marks an enemy in the back row for 10 seconds. Increases the unit\u0027s Crit Chance by 28% when attacking the marked enemy."
+      },
+      {
+        "description": "Marks an enemy in the back row for 10 seconds. Increases the unit\u0027s Crit Chance by 32% when attacking the marked enemy."
+      },
+      {
+        "description": "Marks an enemy in the back row for 10 seconds. Increases the unit\u0027s Crit Chance by 36% when attacking the marked enemy."
+      },
+      {
+        "description": "Marks an enemy in the back row for 10 seconds. Increases the unit\u0027s Crit Chance by 40% when attacking the marked enemy."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Spot Weakness",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases Crit DMG by 15%."
+      },
+      {
+        "description": "Increases Crit DMG by 30%."
+      }
+    ]
+  }
+}

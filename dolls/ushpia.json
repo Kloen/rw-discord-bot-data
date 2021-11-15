@@ -1,0 +1,84 @@
+{
+  "name": "Ushpia",
+  "rarity": "SSR",
+  "element": "Mercury",
+  "vocation": "Mage",
+  "artistAscension4": "PHI",
+  "ascension4": true,
+  "nickname": "Queen of the Desert",
+  "va": {
+    "jpn": "Aiko Ōkubo"
+  },
+  "artist": "PHI",
+  "profile": {
+    "Gender": "Female",
+    "Age": "25",
+    "Birthday": "Aug. 16",
+    "Height": "179cm",
+    "Weight": "？",
+    "Hobby": "Power/ Poison/ Wealth/ Jewels"
+  },
+  "skill1": {
+    "name": "Poison Mist",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 120% of ATK to all enemies and applies a stack of Poison for 5s. Can stack up to 10 times. Poison: Deals Magic DMG equal to 20% + (10% * poison stacks) of Ushpia\u0027s ATK every second."
+      },
+      {
+        "description": "Deals Magic DMG equal to 140% of ATK to all enemies and applies a stack of Poison for 5s. Can stack up to 10 times. Poison: Deals Magic DMG equal to 20% + (10% * poison stacks) of Ushpia\u0027s ATK every second."
+      },
+      {
+        "description": "Deals Magic DMG equal to 160% of ATK to all enemies and applies a stack of Poison for 5s. Can stack up to 10 times. Poison: Deals Magic DMG equal to 20% + (10% * poison stacks) of Ushpia\u0027s ATK every second."
+      },
+      {
+        "description": "Deals Magic DMG equal to 180% of ATK to all enemies and applies a stack of Poison for 5s. Can stack up to 10 times. Poison: Deals Magic DMG equal to 20% + (10% * poison stacks) of Ushpia\u0027s ATK every second."
+      },
+      {
+        "description": "Deals Magic DMG equal to 200% of ATK to all enemies and applies a stack of Poison for 5s. Can stack up to 10 times. Poison: Deals Magic DMG equal to 20% + (10% * poison stacks) of Ushpia\u0027s ATK every second."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Venom Eruption",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 180% of ATK to all enemies and applies a stack of Poison to them. Each stack deals extra Magic DMG equal to 30% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 210% of ATK to all enemies and applies a stack of Poison to them. Each stack deals extra Magic DMG equal to 35% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 240% of ATK to all enemies and applies a stack of Poison to them. Each stack deals extra Magic DMG equal to 40% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 270% of ATK to all enemies and applies a stack of Poison to them. Each stack deals extra Magic DMG equal to 45% of ATK."
+      },
+      {
+        "description": "Deals Magic DMG equal to 300% of ATK to all enemies and applies a stack of Poison to them. Each stack deals extra Magic DMG equal to 50% of ATK."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Paralyzed",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Venom Eruption stuns the enemy for 0.5 seconds."
+      },
+      {
+        "description": "Venom Eruption stuns the enemy for 1 second."
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Mikoto",
+  "rarity": "SR",
+  "element": "Mercury",
+  "vocation": "Compeller",
+  "artistAscension4": "PHI",
+  "ascension4": true,
+  "nickname": "Follower of Destiny",
+  "va": {
+    "jpn": "Sachika Misawa"
+  },
+  "artist": "PHI",
+  "profile": {
+    "Gender": "Female",
+    "Age": "20",
+    "Birthday": "Oct. 6",
+    "Height": "164cm",
+    "Weight": "？",
+    "Hobby": "Cooking/ Praying"
+  },
+  "skill1": {
+    "name": "Oracle",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Generates 1 Order Energy and heals all allies for 270% of ATK."
+      },
+      {
+        "description": "Generates 1 Order Energy and heals all allies for 315% of ATK."
+      },
+      {
+        "description": "Generates 1 Order Energy and heals all allies for 360% of ATK."
+      },
+      {
+        "description": "Generates 1 Order Energy and heals all allies for 405% of ATK."
+      },
+      {
+        "description": "Generates 1 Order Energy and heals all allies for 450% of ATK."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Crimson Lotus",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 270% of ATK to all enemies and increases their Magic DMG taken by 18% for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 315% of ATK to all enemies and increases their Magic DMG taken by 21% for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 360% of ATK to all enemies and increases their Magic DMG taken by 24% for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 405% of ATK to all enemies and increases their Magic DMG taken by 27% for 10s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 450% of ATK to all enemies and increases their Magic DMG taken by 30% for 10s."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Soulbound",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "When Mikoto takes damage, there is a 20% chance to place a Soul Shield that absorbs damage equal to 25% of Mikoto\u0027s max Health on the Doll with the lowest Health for 5s. Can only trigger once every 10s."
+      },
+      {
+        "description": "When Mikoto takes damage, there is a 40% chance to place a Soul Shield that absorbs damage equal to 25% of Mikoto\u0027s max Health on the Doll with the lowest Health for 5s. Can only trigger once every 10s."
+      }
+    ]
+  }
+}

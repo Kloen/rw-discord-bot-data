@@ -1,0 +1,83 @@
+{
+  "name": "Avil",
+  "rarity": "R",
+  "element": "Brimstone",
+  "vocation": "Guardian",
+  "ascension4": false,
+  "nickname": "Guard of the Royal Capital",
+  "va": {
+    "jpn": "Shōhei Kajikawa"
+  },
+  "artist": "弯弯向东流",
+  "profile": {
+    "Gender": "Male",
+    "Age": "25",
+    "Birthday": "?",
+    "Height": "185cm",
+    "Weight": "？",
+    "Hobby": "Training/Policing"
+  },
+  "skill1": {
+    "name": "Guard",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Allies",
+    "type": "Support",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Increases Physical DEF by 30% for 5 seconds, during which all damage taken by allies are redirected to Avil."
+      },
+      {
+        "description": "Increases Physical DEF by 35% for 5 seconds, during which all damage taken by allies are redirected to Avil."
+      },
+      {
+        "description": "Increases Physical DEF by 40% for 5 seconds, during which all damage taken by allies are redirected to Avil."
+      },
+      {
+        "description": "Increases Physical DEF by 45% for 5 seconds, during which all damage taken by allies are redirected to Avil."
+      },
+      {
+        "description": "Increases Physical DEF by 50% for 5 seconds, during which all damage taken by allies are redirected to Avil."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Unbending Will",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 270% of ATK to all enemies and stuns them for 0.2s, then places Mind Blur on them for 10s. Mind Blur: Reduces Physical DEF by 5% of Avil\u0027s Physical DEF each time the inflicted enemies take damage. Can stack up to 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 315% of ATK to all enemies and stuns them for 0.2s, then places Mind Blur on them for 10s. Mind Blur: Reduces Physical DEF by 5% of Avil\u0027s Physical DEF each time the inflicted enemies take damage. Can stack up to 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 360% of ATK to all enemies and stuns them for 0.2s, then places Mind Blur on them for 10s. Mind Blur: Reduces Physical DEF by 5% of Avil\u0027s Physical DEF each time the inflicted enemies take damage. Can stack up to 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 405% of ATK to all enemies and stuns them for 0.2s, then places Mind Blur on them for 10s. Mind Blur: Reduces Physical DEF by 5% of Avil\u0027s Physical DEF each time the inflicted enemies take damage. Can stack up to 100%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 450% of ATK to all enemies and stuns them for 0.2s, then places Mind Blur on them for 10s. Mind Blur: Reduces Physical DEF by 5% of Avil\u0027s Physical DEF each time the inflicted enemies take damage. Can stack up to 100%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Hold Ground",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Takes 5% less damage."
+      },
+      {
+        "description": "Takes 10% less damage."
+      }
+    ]
+  }
+}

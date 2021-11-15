@@ -1,0 +1,83 @@
+{
+  "name": "La Crima",
+  "rarity": "SSR",
+  "element": "Mercury",
+  "vocation": "Compeller",
+  "ascension4": false,
+  "nickname": "Tear of Gems",
+  "va": {
+    "jpn": "Sawako Hata"
+  },
+  "artist": "Pixel Neko",
+  "profile": {
+    "Gender": "Female",
+    "Age": "15",
+    "Birthday": "Feb. 19",
+    "Height": "150cm",
+    "Weight": "？",
+    "Hobby": "Handcraft"
+  },
+  "skill1": {
+    "name": "Barrier of Gems",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "Front Row Allies",
+    "type": "Healing",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Generates 1 Order Energy, heals the front Doll for 120% of ATK, and applies Pearl Shower to the Doll for 10s. Pearl Shower: Restores Health equal to 18% of La Crima\u0027s ATK per second, and reduces damage taken by 18%."
+      },
+      {
+        "description": "Generates 1 Order Energy, heals the front Doll for 140% of ATK, and applies Pearl Shower to the Doll for 10s. Pearl Shower: Restores Health equal to 21% of La Crima\u0027s ATK per second, and reduces damage taken by 21%."
+      },
+      {
+        "description": "Generates 1 Order Energy, heals the front Doll for 160% of ATK, and applies Pearl Shower to the Doll for 10s. Pearl Shower: Restores Health equal to 24% of La Crima\u0027s ATK per second, and reduces damage taken by 24%."
+      },
+      {
+        "description": "Generates 1 Order Energy, heals the front Doll for 180% of ATK, and applies Pearl Shower to the Doll for 10s. Pearl Shower: Restores Health equal to 27% of La Crima\u0027s ATK per second, and reduces damage taken by 27%."
+      },
+      {
+        "description": "Generates 1 Order Energy, heals the front Doll for 200% of ATK, and applies Pearl Shower to the Doll for 10s. Pearl Shower: Restores Health equal to 30% of La Crima\u0027s ATK per second, and reduces damage taken by 30%."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Sparkle",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Debuff",
+    "skillType": "charging",
+    "variations": [
+      {
+        "description": "Unleashes the blinding light inside the gem, dealing Magic DMG equal to 270% of ATK to all enemies and stunning them for 1s. Enemies take 18% more Magic DMG for the next 10 seconds."
+      },
+      {
+        "description": "Unleashes the blinding light inside the gem, dealing Magic DMG equal to 315% of ATK to all enemies and stunning them for 1s. Enemies take 21% more Magic DMG for the next 10 seconds."
+      },
+      {
+        "description": "Unleashes the blinding light inside the gem, dealing Magic DMG equal to 360% of ATK to all enemies and stunning them for 1s. Enemies take 24% more Magic DMG for the next 10 seconds."
+      },
+      {
+        "description": "Unleashes the blinding light inside the gem, dealing Magic DMG equal to 405% of ATK to all enemies and stunning them for 1s. Enemies take 27% more Magic DMG for the next 10 seconds."
+      },
+      {
+        "description": "Unleashes the blinding light inside the gem, dealing Magic DMG equal to 450% of ATK to all enemies and stunning them for 1s. Enemies take 30% more Magic DMG for the next 10 seconds."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Tear of Pearl",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "When taking damage, there is a 20% chance to restore 1 Order Energy. Can be triggered again after 2 seconds."
+      },
+      {
+        "description": "When taking damage, there is a 20% chance to restore 1 Order Energy. Can be triggered again after 1 second."
+      }
+    ]
+  }
+}
