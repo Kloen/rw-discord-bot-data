@@ -3,7 +3,6 @@
   "rarity": "SR",
   "element": "Saltstone",
   "vocation": "Destroyer",
-  "ascension4": false,
   "nickname": "Spell-breaking Spear",
   "va": {
     "jpn": "Manami Numakura"
@@ -80,5 +79,21 @@
         "description": "Increases damage dealt by 5% for 10s after casting Evilsend. Can stack up to 25%."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    }
+  ]
 }

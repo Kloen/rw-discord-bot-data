@@ -3,7 +3,6 @@
   "rarity": "SSR",
   "element": "Brimstone",
   "vocation": "Assassin",
-  "ascension4": false,
   "nickname": "Annihilator of Existence",
   "va": {
     "jpn": "Rena Maeda"
@@ -80,5 +79,21 @@
         "description": "Increases Physical DMG dealt by 5% for each damage taken, up to 50%. Can trigger once every 2 seconds."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

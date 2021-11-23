@@ -3,7 +3,6 @@
   "rarity": "SSR",
   "element": "Saltstone",
   "vocation": "Destroyer",
-  "ascension4": false,
   "nickname": "Deliverer of the Underworld",
   "va": {
     "jpn": "Aoi Yūki"
@@ -80,5 +79,21 @@
         "description": "Enemies take 20% more damage for 5 seconds."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

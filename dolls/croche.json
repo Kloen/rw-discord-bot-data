@@ -3,7 +3,6 @@
   "rarity": "SR",
   "element": "Brimstone",
   "vocation": "Healer",
-  "ascension4": false,
   "nickname": "Maid of the Belfry",
   "va": {
     "jpn": "Rena Maeda"
@@ -80,5 +79,21 @@
         "description": "Croche has a 20% chance to fully restore her Health when it drops to 0."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    }
+  ]
 }

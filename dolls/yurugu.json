@@ -3,13 +3,11 @@
   "rarity": "SR",
   "element": "Mercury",
   "vocation": "Guardian",
-  "artistAscension4": "PixelNeko",
-  "ascension4": true,
   "nickname": "Coffin of Voidness",
   "va": {
     "jpn": "Kana Ueda"
   },
-  "artist": "薛定谔的食铁兽",
+  "artist": "Pixel Neko",
   "affiliation": "Space of Void",
   "profile": {
     "Gender": "Female",
@@ -81,5 +79,28 @@
         "description": "Yurugu has a 20% chance to fully restore her Health when it reaches 0."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

@@ -3,8 +3,6 @@
   "rarity": "EX",
   "element": "Mercury",
   "vocation": "Mage",
-  "artistAscension4": "緜/wata",
-  "ascension4": true,
   "nickname": "Princess of Aurora",
   "va": {
     "jpn": "Sumire Uesaka"
@@ -81,5 +79,28 @@
         "description": "Generates 1 Order Energy every 3 seconds."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "緜/wata",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "緜/wata",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Default Doll Model.",
+      "artist": "緜/wata",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": false
+    }
+  ]
 }

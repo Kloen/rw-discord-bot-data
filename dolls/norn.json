@@ -3,8 +3,6 @@
   "rarity": "SSR",
   "element": "Brimstone",
   "vocation": "Healer",
-  "artistAscension4": "Angye",
-  "ascension4": true,
   "nickname": "Immortal Ovate",
   "va": {
     "jpn": "Eri Yukimura"
@@ -81,5 +79,28 @@
         "description": "Heals all allies for 10% of Norn\u0027s ATK every 1 second."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Angye",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Angye",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "Angye",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

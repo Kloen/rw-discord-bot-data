@@ -3,8 +3,6 @@
   "rarity": "SR",
   "element": "Saltstone",
   "vocation": "Destroyer",
-  "artistAscension4": "ピナケス",
-  "ascension4": true,
   "nickname": "Swordswoman of Squall",
   "va": {
     "jpn": "Reina Kondo"
@@ -81,5 +79,35 @@
         "description": "When in combat, the firstly-used skill deals 100% more damage."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "ピナケス",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "ピナケス",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "ピナケス",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    },
+    {
+      "name": "Sweet Time",
+      "description": "A sweet homemade cake that leads the two of you to a world in perfect harmony.",
+      "artist": "ピナケス",
+      "getWay": "Purchase in Shop",
+      "isLive": true
+    }
+  ]
 }

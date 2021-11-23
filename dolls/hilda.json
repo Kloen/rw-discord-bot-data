@@ -3,10 +3,9 @@
   "rarity": "SR",
   "element": "Saltstone",
   "vocation": "Destroyer",
-  "ascension4": false,
   "nickname": "The Royal Sword",
   "va": {
-    "jpn": "Nanako Mori"
+    "jpn": ""
   },
   "artist": "irvineQ",
   "affiliation": "Kingdom of Lochaber",
@@ -80,5 +79,21 @@
         "description": "When used, all enemies take 15% more damage for 5s."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "irvineQ",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "irvineQ",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    }
+  ]
 }

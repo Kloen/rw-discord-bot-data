@@ -1,0 +1,113 @@
+{
+  "name": "Nannar",
+  "rarity": "UR",
+  "element": "Mercury",
+  "vocation": "Guardian",
+  "nickname": "Guard of the Mirror",
+  "va": {
+    "jpn": "Wakana Kowaka"
+  },
+  "artist": "緜/wata",
+  "affiliation": "Space of Void",
+  "profile": {
+    "Gender": "Female",
+    "Age": "16",
+    "Birthday": "Feb. 3",
+    "Height": "159cm",
+    "Weight": "？",
+    "Hobby": "Observing/ Sleeping/ Cooking."
+  },
+  "skill1": {
+    "name": "Guard of the Mirror",
+    "chaosCost": 0,
+    "orderCost": 3,
+    "range": "All Allies",
+    "type": "Support",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Reduces damage taken by 20% and gains a Shield equal to 30% of max Health. For 10s, all damages taken by allies will be directed to Nannar."
+      },
+      {
+        "description": "Reduces damage taken by 20% and gains a Shield equal to 35% of max Health. For 10s, all damages taken by allies will be directed to Nannar."
+      },
+      {
+        "description": "Reduces damage taken by 20% and gains a Shield equal to 40% of max Health. For 10s, all damages taken by allies will be directed to Nannar."
+      },
+      {
+        "description": "Reduces damage taken by 20% and gains a Shield equal to 45% of max Health. For 10s, all damages taken by allies will be directed to Nannar."
+      },
+      {
+        "description": "Reduces damage taken by 20% and gains a Shield equal to 50% of max Health. For 10s, all damages taken by allies will be directed to Nannar."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Curse of the Mirror",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 90% of ATK 5 times to all enemies. Dispels enemies\u0027 buffs and reduces their Magic DEF by 12% of Nannar\u0027s Magic DEF for 10s. Can stack up to 5 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 105% of ATK 5 times to all enemies. Dispels enemies\u0027 buffs and reduces their Magic DEF by 12% of Nannar\u0027s Magic DEF for 10s. Can stack up to 5 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 120% of ATK 5 times to all enemies. Dispels enemies\u0027 buffs and reduces their Magic DEF by 12% of Nannar\u0027s Magic DEF for 10s. Can stack up to 5 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 135% of ATK 5 times to all enemies. Dispels enemies\u0027 buffs and reduces their Magic DEF by 12% of Nannar\u0027s Magic DEF for 10s. Can stack up to 5 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 150% of ATK 5 times to all enemies. Dispels enemies\u0027 buffs and reduces their Magic DEF by 12% of Nannar\u0027s Magic DEF for 10s. Can stack up to 5 times."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Reflection of the Mirror",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "When taking damage, there is a 10% chance to trigger Curse of the Mirror. The effect can only be triggered once in 2s."
+      },
+      {
+        "description": "When taking damage, there is a 20% chance to trigger Curse of the Mirror. The effect can only be triggered once in 2s."
+      }
+    ]
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "緜/wata",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "緜/wata",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "緜/wata",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    },
+    {
+      "name": "Dream",
+      "description": "Nannar always talks something cute when in deep slumber.$B$\"Ah... I saw...a different reflection in the mirror...\"",
+      "artist": "门徒",
+      "getWay": "Purchase in Shop",
+      "isLive": true
+    }
+  ]
+}

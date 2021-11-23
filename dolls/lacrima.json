@@ -3,7 +3,6 @@
   "rarity": "SSR",
   "element": "Mercury",
   "vocation": "Compeller",
-  "ascension4": false,
   "nickname": "Tear of Gems",
   "va": {
     "jpn": "Sawako Hata"
@@ -80,5 +79,21 @@
         "description": "When taking damage, there is a 20% chance to restore 1 Order Energy. Can be triggered again after 1 second."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

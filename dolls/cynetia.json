@@ -3,8 +3,6 @@
   "rarity": "SSR",
   "element": "Saltstone",
   "vocation": "Healer",
-  "artistAscension4": "日向あずり",
-  "ascension4": true,
   "nickname": "Warped Hymn",
   "va": {
     "jpn": "Kana Yūki"
@@ -81,5 +79,28 @@
         "description": "When Health is below 50%, removes debuffs and restores 50% of max Health. Can only trigger once per combat."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "日向あずり",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "日向あずり",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "日向あずり",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

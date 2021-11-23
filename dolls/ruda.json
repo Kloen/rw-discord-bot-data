@@ -3,8 +3,6 @@
   "rarity": "SR",
   "element": "Brimstone",
   "vocation": "Healer",
-  "artistAscension4": "美和野らぐ",
-  "ascension4": true,
   "nickname": "Starlight Collector",
   "va": {
     "jpn": "Aoi Yūki"
@@ -81,5 +79,28 @@
         "description": "When using skills, there is a20% chance to generate 1 Chaos Energy."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "美和野らぐ",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "美和野らぐ",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "美和野らぐ",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

@@ -3,8 +3,6 @@
   "rarity": "SSR",
   "element": "Mercury",
   "vocation": "Mage",
-  "artistAscension4": "PHI",
-  "ascension4": true,
   "nickname": "Queen of the Desert",
   "va": {
     "jpn": "Aiko Ōkubo"
@@ -81,5 +79,28 @@
         "description": "Venom Eruption stuns the enemy for 1 second."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PHI",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PHI",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "PHI",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

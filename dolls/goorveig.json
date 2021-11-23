@@ -3,7 +3,6 @@
   "rarity": "UR",
   "element": "Mercury",
   "vocation": "Compeller",
-  "ascension4": false,
   "nickname": "Sacrifice to the Abyss",
   "va": {
     "jpn": "Sumire Uesaka"
@@ -80,5 +79,21 @@
         "description": "Increases the max Health and ATK of Creature of the Abyss by 30% each."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "山椒魚",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "山椒魚",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

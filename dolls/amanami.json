@@ -3,7 +3,6 @@
   "rarity": "UR",
   "element": "Mercury",
   "vocation": "Compeller",
-  "ascension4": false,
   "nickname": "Princess of the Sun",
   "va": {
     "jpn": "Tomoyo Kurosawa"
@@ -80,5 +79,21 @@
         "description": "Increases all allies\u0027 damage dealt by 20% for 5s. Can stack up to 40%."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "lunacle",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "lunacle",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

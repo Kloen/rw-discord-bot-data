@@ -3,13 +3,11 @@
   "rarity": "SR",
   "element": "Mercury",
   "vocation": "Compeller",
-  "artistAscension4": "PixelNeko",
-  "ascension4": true,
   "nickname": "Angel of Deception",
   "va": {
     "jpn": "Tomoe Tamiyasu"
   },
-  "artist": "薛定谔的食铁兽",
+  "artist": "Pixel Neko",
   "affiliation": "Kingdom of Celtica",
   "profile": {
     "Gender": "Female",
@@ -81,5 +79,28 @@
         "description": "Has a 40% chance to restore 1 Chaos Energy."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

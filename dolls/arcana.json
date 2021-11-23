@@ -3,13 +3,11 @@
   "rarity": "SSR",
   "element": "Mercury",
   "vocation": "Compeller",
-  "artistAscension4": "PixelNeko",
-  "ascension4": true,
   "nickname": "Fortune Teller",
   "va": {
     "jpn": "Noriko Shibasaki"
   },
-  "artist": "薛定谔的食铁兽",
+  "artist": "Pixel Neko",
   "affiliation": "Kingdom of Celtica",
   "profile": {
     "Gender": "Female",
@@ -81,5 +79,35 @@
         "description": "When using Divination, 10% more chance to trigger higher energy generation rate."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    },
+    {
+      "name": "Blessed Dinner",
+      "description": "After a full day of busywork, Arcana comes to the tavern she enjoys and has a drink.",
+      "artist": "PixelNeko",
+      "getWay": "Purchase in Shop",
+      "isLive": true
+    }
+  ]
 }

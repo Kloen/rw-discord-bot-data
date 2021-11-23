@@ -3,8 +3,6 @@
   "rarity": "UR",
   "element": "Mercury",
   "vocation": "Guardian",
-  "artistAscension4": "Kurot",
-  "ascension4": true,
   "nickname": "Defender of Holiness",
   "va": {
     "jpn": "Misato Fukuen"
@@ -81,5 +79,28 @@
         "description": "Auto casts Holy Radiance once after taking damage 8 times."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Kurot",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Kurot",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "Kurot",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

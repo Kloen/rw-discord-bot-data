@@ -3,7 +3,6 @@
   "rarity": "UR",
   "element": "Mercury",
   "vocation": "Mage",
-  "ascension4": false,
   "nickname": "Blessing of the Night",
   "va": {
     "jpn": "Nao Tōyama"
@@ -80,5 +79,21 @@
         "description": "When dealing damage, there is a 15% chance to generate 1 Order Energy and increase damage dealt by 20% for 5s."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Alov",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Alov",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

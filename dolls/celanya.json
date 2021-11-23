@@ -3,7 +3,6 @@
   "rarity": "UR",
   "element": "Brimstone",
   "vocation": "Assassin",
-  "ascension4": false,
   "nickname": "Azure Archer of Wind",
   "va": {
     "jpn": "Chisa Suganuma"
@@ -80,5 +79,21 @@
         "description": "With each attack, deals 2% more damage and ignores the enemies\u0027 Physical DEF equal to 2% of self ATK. Can stack up to 20% for both."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "えびら",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "えびら",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

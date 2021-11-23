@@ -3,7 +3,6 @@
   "rarity": "SR",
   "element": "Saltstone",
   "vocation": "Healer",
-  "ascension4": false,
   "nickname": "Heart of Rose",
   "va": {
     "jpn": "Saran Tajima"
@@ -80,5 +79,21 @@
         "description": "Auto uses Whisper of Flower once on allies that are below 30% Health. Can only trigger once every 8 seconds."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "不可燃物",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "不可燃物",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    }
+  ]
 }

@@ -3,7 +3,6 @@
   "rarity": "SSR",
   "element": "Mercury",
   "vocation": "Mage",
-  "ascension4": false,
   "nickname": "Clockwork-Doll",
   "va": {
     "jpn": "Miho Wataya"
@@ -80,5 +79,21 @@
         "description": "After taking lethal damage, Viola reveals her mechanical core, which takes 50% more damage. If the core is not destroyed within 5s, the Doll will be auto repaired. Can only trigger once per combat."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

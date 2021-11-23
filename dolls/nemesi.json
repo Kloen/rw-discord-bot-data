@@ -3,7 +3,6 @@
   "rarity": "SR",
   "element": "Brimstone",
   "vocation": "Assassin",
-  "ascension4": false,
   "nickname": "Deathbringer",
   "va": {
     "jpn": "Sara Matsumoto"
@@ -80,5 +79,28 @@
         "description": "Increases Crit DMG by 30%."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "戏言咸咸",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "戏言咸咸",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    },
+    {
+      "name": "Idyllic Vacation",
+      "description": "Lounging on the couch, Nemesi is enjoying her rare rest days.$B$\"What are you doing here? Are you supposed to be off today?\"",
+      "artist": "戏言咸咸",
+      "getWay": "Purchase in Shop",
+      "isLive": true
+    }
+  ]
 }

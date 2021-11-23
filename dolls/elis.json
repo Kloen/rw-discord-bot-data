@@ -3,7 +3,6 @@
   "rarity": "SR",
   "element": "Brimstone",
   "vocation": "Assassin",
-  "ascension4": false,
   "nickname": "Queen of the Forest",
   "va": {
     "jpn": "Sayaka Kitahara"
@@ -80,5 +79,21 @@
         "description": "Increases damage dealt by 10% every 30 seconds, up to 50%."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    }
+  ]
 }

@@ -3,10 +3,9 @@
   "rarity": "SR",
   "element": "Aether",
   "vocation": "Witch",
-  "ascension4": false,
   "nickname": "Witch of the Void",
   "va": {
-    "jpn": "?"
+    "jpn": "Airi Ōtsu"
   },
   "artist": "不可燃物",
   "profile": {
@@ -160,5 +159,28 @@
         "description": "Unleashes Cersivey\u0027s power, removing debuffs on all allies and reducing the damage taken by \u003cspan style\u003d\"color: #82C65D;\"\u003e20%\u003c/span\u003e for 5s."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "不可燃物",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "不可燃物",
+      "getWay": "",
+      "isLive": true
+    },
+    {
+      "name": "Dashing Sunglasses",
+      "description": "A witch with sunglasses.",
+      "artist": "不可燃物",
+      "getWay": "First Top-up Reward",
+      "isLive": false
+    }
+  ]
 }

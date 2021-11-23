@@ -3,7 +3,6 @@
   "rarity": "SSR",
   "element": "Mercury",
   "vocation": "Guardian",
-  "ascension4": false,
   "nickname": "Vermilion Phoenix",
   "va": {
     "jpn": "Anna Yamaki"
@@ -80,5 +79,21 @@
         "description": "Revives automatically after death. Increases ATK, Physical DEF and Magic DEF by 30% and restores 10% of max Health per second for 10s. Can only trigger once per combat."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

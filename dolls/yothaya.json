@@ -3,12 +3,11 @@
   "rarity": "SR",
   "element": "Saltstone",
   "vocation": "Healer",
-  "ascension4": false,
   "nickname": "Petite Healer",
   "va": {
     "jpn": "Rie Hikisaka"
   },
-  "artist": "薛定谔的食铁兽",
+  "artist": "Pixel Neko",
   "affiliation": "Fomoire",
   "profile": {
     "Gender": "Female",
@@ -80,5 +79,21 @@
         "description": "Heals the Doll with the lowest Health for 100% of Yothaya\u0027s ATK every 5 seconds."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    }
+  ]
 }

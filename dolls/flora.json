@@ -3,7 +3,6 @@
   "rarity": "UR",
   "element": "Saltstone",
   "vocation": "Healer",
-  "ascension4": false,
   "nickname": "Melody of the Lake",
   "va": {
     "jpn": "Yui Ogura"
@@ -80,5 +79,21 @@
         "description": "Reduces all allies\u0027 damage taken by 30% for 5s."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

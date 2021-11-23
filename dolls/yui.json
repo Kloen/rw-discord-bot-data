@@ -3,8 +3,6 @@
   "rarity": "SSR",
   "element": "Saltstone",
   "vocation": "Destroyer",
-  "artistAscension4": "Nekojira",
-  "ascension4": true,
   "nickname": "Demonsbane Spear",
   "va": {
     "jpn": "Manami Numakura"
@@ -81,5 +79,28 @@
         "description": "Reduces Magic DMG taken by 20%. Also ignores the enemy\u0027s Physical DEF equal to 40% of Yui\u0027s ATK for 10s after using Demonsbane Spear."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Nekojira",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Nekojira",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "Nekojira",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

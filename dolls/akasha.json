@@ -3,8 +3,6 @@
   "rarity": "UR",
   "element": "Brimstone",
   "vocation": "Assassin",
-  "artistAscension4": "夜ノみつき",
-  "ascension4": true,
   "nickname": "Sword Maiden of Shooting Stars",
   "va": {
     "jpn": "Haruka Tomatsu"
@@ -81,5 +79,28 @@
         "description": "When unleashing Meteor Slash, there\u0027s a 20% chance to reduce the energy cost of the next Arcane: Lustre Slash to 1."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "夜ノみつき",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "夜ノみつき",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "夜ノみつき",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

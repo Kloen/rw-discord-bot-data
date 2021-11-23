@@ -3,8 +3,6 @@
   "rarity": "UR",
   "element": "Saltstone",
   "vocation": "Destroyer",
-  "artistAscension4": "PHI",
-  "ascension4": true,
   "nickname": "Dragon Lass",
   "va": {
     "jpn": "Yuki Tanaka"
@@ -81,5 +79,35 @@
         "description": "Recovers 5% of max Health per second and reduces damage taken by 20%."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PHI",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PHI",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "PHI",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    },
+    {
+      "name": "Noble Bloodline",
+      "description": "Ella realized that her behavior was not in keeping with her noble status and decided to change.",
+      "artist": "PHI",
+      "getWay": "Purchase in Shop",
+      "isLive": true
+    }
+  ]
 }

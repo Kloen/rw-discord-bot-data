@@ -3,7 +3,6 @@
   "rarity": "SSR",
   "element": "Mercury",
   "vocation": "Mage",
-  "ascension4": false,
   "nickname": "Forest Blessing",
   "va": {
     "jpn": "Tae Okajima"
@@ -80,5 +79,21 @@
         "description": "Heals all allies for 30% of ATK."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

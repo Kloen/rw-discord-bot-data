@@ -3,7 +3,6 @@
   "rarity": "R",
   "element": "Saltstone",
   "vocation": "Destroyer",
-  "ascension4": false,
   "nickname": "Penetrating Spear",
   "va": {
     "jpn": "Wakana Kowaka"
@@ -80,5 +79,21 @@
         "description": "Deals 10% more damage."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Tian",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Tian",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    }
+  ]
 }

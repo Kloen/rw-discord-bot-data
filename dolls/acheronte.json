@@ -1,0 +1,106 @@
+{
+  "name": "Acheronte",
+  "rarity": "SSR",
+  "element": "Mercury",
+  "vocation": "Mage",
+  "nickname": "Bard of the Deceased",
+  "va": {
+    "jpn": "Manami Numakura"
+  },
+  "artist": "葉山えいし",
+  "affiliation": "Space of Void",
+  "profile": {
+    "Gender": "Female",
+    "Age": "？",
+    "Birthday": "Jul. 17",
+    "Height": "156cm",
+    "Weight": "？",
+    "Hobby": "Painting/ Singing"
+  },
+  "skill1": {
+    "name": "Wings of Hell Fire",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 180% of ATK to all enemies and increases their Magic DMG taken by 5% for 10 seconds. Can stack up to 10 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 210% of ATK to all enemies and increases their Magic DMG taken by 5% for 10 seconds. Can stack up to 10 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 240% of ATK to all enemies and increases their Magic DMG taken by 5% for 10 seconds. Can stack up to 10 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 270% of ATK to all enemies and increases their Magic DMG taken by 5% for 10 seconds. Can stack up to 10 times."
+      },
+      {
+        "description": "Deals Magic DMG equal to 300% of ATK to all enemies and increases their Magic DMG taken by 5% for 10 seconds. Can stack up to 10 times."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Praise of Death",
+    "chaosCost": 3,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Magic ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Magic DMG equal to 120% of ATK to all enemies per second for 3s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 140% of ATK to all enemies per second for 3s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 160% of ATK to all enemies per second for 3s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 180% of ATK to all enemies per second for 3s."
+      },
+      {
+        "description": "Deals Magic DMG equal to 200% of ATK to all enemies per second for 3s."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Aria",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Increases ATK by 12.5% during the first 30 seconds of combat."
+      },
+      {
+        "description": "Increases ATK by 25% during the first 30 seconds of combat."
+      }
+    ]
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "葉山えいし",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "葉山えいし",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Default Doll Model.",
+      "artist": "葉山えいし",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": false
+    }
+  ]
+}

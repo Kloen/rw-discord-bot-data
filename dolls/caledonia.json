@@ -3,8 +3,6 @@
   "rarity": "UR",
   "element": "Brimstone",
   "vocation": "Guardian",
-  "artistAscension4": "トモセシュンサク",
-  "ascension4": true,
   "nickname": "Cloistered Princess",
   "va": {
     "jpn": "M·A·O"
@@ -81,5 +79,28 @@
         "description": "Caledonia is blessed by the Sacred Beast, reducing her damage taken by 6% of her max Health. For every 30% Health lost, removes all debuffs on her."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "トモセシュンサク",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "トモセシュンサク",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "トモセシュンサク",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

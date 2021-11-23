@@ -3,8 +3,6 @@
   "rarity": "SSR",
   "element": "Saltstone",
   "vocation": "Compeller",
-  "artistAscension4": "TAKUBON",
-  "ascension4": true,
   "nickname": "Will of the God",
   "va": {
     "jpn": "Rui Tanabe"
@@ -81,5 +79,28 @@
         "description": "Heals all allies for 50% of ATK when attacking."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "TAKUBON",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "TAKUBON",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "TAKUBON",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

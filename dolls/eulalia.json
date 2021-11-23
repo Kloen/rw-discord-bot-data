@@ -3,7 +3,6 @@
   "rarity": "R",
   "element": "Saltstone",
   "vocation": "Healer",
-  "ascension4": false,
   "nickname": "Saintess of Lunia",
   "va": {
     "jpn": "Maaya Torigoe"
@@ -80,5 +79,21 @@
         "description": "Increases healing effect by 10%."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    }
+  ]
 }

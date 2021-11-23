@@ -3,7 +3,6 @@
   "rarity": "R",
   "element": "Brimstone",
   "vocation": "Guardian",
-  "ascension4": false,
   "nickname": "Guard of the Royal Capital",
   "va": {
     "jpn": "Shōhei Kajikawa"
@@ -80,5 +79,21 @@
         "description": "Takes 10% less damage."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PixelNeko",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    }
+  ]
 }

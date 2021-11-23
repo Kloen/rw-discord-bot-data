@@ -1,0 +1,106 @@
+{
+  "name": "Metamorphoses",
+  "rarity": "UR",
+  "element": "Saltstone",
+  "vocation": "Compeller",
+  "nickname": "Dominator of Souls",
+  "va": {
+    "jpn": "Yui Makino"
+  },
+  "artist": "山椒魚",
+  "affiliation": "Principality of Muntenia",
+  "profile": {
+    "Gender": "Female",
+    "Age": "15",
+    "Birthday": "Jul. 21",
+    "Height": "151cm",
+    "Weight": "？",
+    "Hobby": "Observing"
+  },
+  "skill1": {
+    "name": "Borrow",
+    "chaosCost": 0,
+    "orderCost": 2,
+    "range": "All Allies",
+    "type": "Enhance",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Changes the mask and heals all allies for 120% of Metamorphoses\u0027 ATK, applying different buffs based on the mask switched to. When changing masks, the buff of the previous mask will still last for 5s. After joining in combat, Borrow will be automatically triggered once. Rage: Increases the ATK of all allies equal to 24% of Metamorphoses\u0027 ATK. Joy: Increases the damage dealt by all allies by 12%. Sorrow: Decreases the damage taken by all allies by 12%."
+      },
+      {
+        "description": "Changes the mask and heals all allies for 140% of Metamorphoses\u0027 ATK, applying different buffs based on the mask switched to. When changing masks, the buff of the previous mask will still last for 5s. After joining in combat, Borrow will be automatically triggered once. Rage: Increases the ATK of all allies equal to 28% of Metamorphoses\u0027 ATK. Joy: Increases the damage dealt by all allies by 14%. Sorrow: Decreases the damage taken by all allies by 14%."
+      },
+      {
+        "description": "Changes the mask and heals all allies for 160% of Metamorphoses\u0027 ATK, applying different buffs based on the mask switched to. When changing masks, the buff of the previous mask will still last for 5s. After joining in combat, Borrow will be automatically triggered once. Rage: Increases the ATK of all allies equal to 32% of Metamorphoses\u0027 ATK. Joy: Increases the damage dealt by all allies by 16%. Sorrow: Decreases the damage taken by all allies by 16%."
+      },
+      {
+        "description": "Changes the mask and heals all allies for 180% of Metamorphoses\u0027 ATK, applying different buffs based on the mask switched to. When changing masks, the buff of the previous mask will still last for 5s. After joining in combat, Borrow will be automatically triggered once. Rage: Increases the ATK of all allies equal to 36% of Metamorphoses\u0027 ATK. Joy: Increases the damage dealt by all allies by 18%. Sorrow: Decreases the damage taken by all allies by 18%."
+      },
+      {
+        "description": "Changes the mask and heals all allies for 200% of Metamorphoses\u0027 ATK, applying different buffs based on the mask switched to. When changing masks, the buff of the previous mask will still last for 5s. After joining in combat, Borrow will be automatically triggered once. Rage: Increases the ATK of all allies equal to 40% of Metamorphoses\u0027 ATK. Joy: Increases the damage dealt by all allies by 20%. Sorrow: Decreases the damage taken by all allies by 20%."
+      }
+    ]
+  },
+  "skill2": {
+    "name": "Emotion Surge",
+    "chaosCost": 4,
+    "orderCost": 0,
+    "range": "All Enemies",
+    "type": "Physical ATK",
+    "skillType": "active",
+    "variations": [
+      {
+        "description": "Deals Physical DMG equal to 240% of ATK to all enemies, increases the effect of Borrow by 100% for 5s, and increases all allies\u0027 damage or healing effect of next active skills by 60%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 280% of ATK to all enemies, increases the effect of Borrow by 100% for 5s, and increases all allies\u0027 damage or healing effect of next active skills by 70%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 320% of ATK to all enemies, increases the effect of Borrow by 100% for 5s, and increases all allies\u0027 damage or healing effect of next active skills by 80%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 360% of ATK to all enemies, increases the effect of Borrow by 100% for 5s, and increases all allies\u0027 damage or healing effect of next active skills by 90%."
+      },
+      {
+        "description": "Deals Physical DMG equal to 400% of ATK to all enemies, increases the effect of Borrow by 100% for 5s, and increases all allies\u0027 damage or healing effect of next active skills by 100%."
+      }
+    ]
+  },
+  "passive": {
+    "name": "Soul Collection",
+    "type": "Passive",
+    "skillType": "passive",
+    "variations": [
+      {
+        "description": "Every 20 seconds, increases self ATK by 20% for 10s."
+      },
+      {
+        "description": "Every 20 seconds, increases self ATK by 40% for 10s."
+      }
+    ]
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "山椒魚",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "山椒魚",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Default Doll Model.",
+      "artist": "山椒魚",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": false
+    }
+  ]
+}

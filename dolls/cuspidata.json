@@ -3,7 +3,6 @@
   "rarity": "R",
   "element": "Mercury",
   "vocation": "Mage",
-  "ascension4": false,
   "nickname": "Red Pupils of Madness",
   "va": {
     "jpn": "Akiho Suzumoto"
@@ -80,5 +79,21 @@
         "description": "Normal attack and skills reduce enemies\u0027 damage by 6% for 6s. Can stack up to up to 30%."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "nano",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "nano",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    }
+  ]
 }

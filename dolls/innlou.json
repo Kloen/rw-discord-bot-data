@@ -3,8 +3,6 @@
   "rarity": "SSR",
   "element": "Brimstone",
   "vocation": "Assassin",
-  "artistAscension4": "Namie",
-  "ascension4": true,
   "nickname": "Twin Executors",
   "va": {
     "jpn": "Akiha Matsui"
@@ -81,5 +79,28 @@
         "description": "Increases damage dealt by 10% every 20 seconds. Can stack up to 50%."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Namie",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "Namie",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "Namie",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

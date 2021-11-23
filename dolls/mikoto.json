@@ -3,8 +3,6 @@
   "rarity": "SR",
   "element": "Mercury",
   "vocation": "Compeller",
-  "artistAscension4": "PHI",
-  "ascension4": true,
   "nickname": "Follower of Destiny",
   "va": {
     "jpn": "Sachika Misawa"
@@ -81,5 +79,28 @@
         "description": "When Mikoto takes damage, there is a 40% chance to place a Soul Shield that absorbs damage equal to 25% of Mikoto\u0027s max Health on the Doll with the lowest Health for 5s. Can only trigger once every 10s."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PHI",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "PHI",
+      "getWay": "Unlock at Ascension 2",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "PHI",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": true
+    }
+  ]
 }

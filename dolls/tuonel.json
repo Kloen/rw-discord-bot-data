@@ -3,7 +3,6 @@
   "rarity": "UR",
   "element": "Saltstone",
   "vocation": "Healer",
-  "ascension4": false,
   "nickname": "Hybrid Healer",
   "va": {
     "jpn": "Wakana Maruoka"
@@ -80,5 +79,21 @@
         "description": "Generates 1 Chaos Energy every 2 seconds."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "イセ川ヤスタカ",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "イセ川ヤスタカ",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

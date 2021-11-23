@@ -3,7 +3,6 @@
   "rarity": "SSR",
   "element": "Brimstone",
   "vocation": "Assassin",
-  "ascension4": false,
   "nickname": "Scarlet Moon",
   "va": {
     "jpn": "Kaoru Sakura"
@@ -80,5 +79,21 @@
         "description": "Deals 2% more damage with each attack. Can stack up to 40%."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "AIKO",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "AIKO",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    }
+  ]
 }

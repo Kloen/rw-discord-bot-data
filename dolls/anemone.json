@@ -3,8 +3,6 @@
   "rarity": "UR",
   "element": "Mercury",
   "vocation": "Mage",
-  "artistAscension4": "夜ノみつき",
-  "ascension4": true,
   "nickname": "Elementalist",
   "va": {
     "jpn": "Harumi Sakurai"
@@ -81,5 +79,28 @@
         "description": "Increases ATK by 25% during the first 30 seconds of combat."
       }
     ]
-  }
+  },
+  "skins": [
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "夜ノみつき",
+      "getWay": "",
+      "isLive": false
+    },
+    {
+      "name": "Original Model",
+      "description": "Default Doll Model.",
+      "artist": "夜ノみつき",
+      "getWay": "Unlock at Ascension 3",
+      "isLive": true
+    },
+    {
+      "name": "Ascension",
+      "description": "Doll Ascension Model.",
+      "artist": "夜ノみつき",
+      "getWay": "Unlock at Ascension 4",
+      "isLive": false
+    }
+  ]
 }
